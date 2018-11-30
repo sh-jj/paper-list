@@ -1,6 +1,6 @@
 # paper-list
 
-privatERM
+privateERM
 
 Kifer, D., Smith, A., & Thakurta, A. (2012). Private Convex Empirical Risk Minimization and High-dimensional Regression. Conference on Learning Theory.
 http://101.96.10.63/www.cse.psu.edu/~ads22/pubs/KST12/KST12-2012-06-07-Colt-camera.pdf
