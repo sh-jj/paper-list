@@ -45,7 +45,7 @@ code:https://github.com/McGill-DMaS/DiffGen
 
 ---
 
-杂
+Generalization Error Analysis
 
 Shalev-Shwartz, S., & Srebro, N. (2008). SVM optimization: inverse dependence on training set size. In Proceedings of the 25th international conference on Machine learning (pp. 928–935).  
 http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
