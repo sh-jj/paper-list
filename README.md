@@ -10,7 +10,7 @@ http://101.96.10.63/www.cse.psu.edu/~ads22/pubs/KST12/KST12-2012-06-07-Colt-came
 
 Chaudhuri, K., Monteleoni, C., & Sarwate, A. D. (2011). Differentially Private Empirical Risk Minimization. Journal of Machine Learning Research, 12, 1069–1109.  
 https://dl.acm.org/citation.cfm?id=2021036  
->纠正了前一篇文章中的错误，正式提出了一类基于经验误差最小化方法的dp框架privateERM  
+>纠正了前一篇文章(Chaudhuri, 2008)中的错误，正式提出了一类基于经验误差最小化方法的dp框架privateERM  
 >对输出扰动和目标扰动两种方法的泛化误差进行了分析  
 >应用于logistic回归和svm的性能分析  
 
