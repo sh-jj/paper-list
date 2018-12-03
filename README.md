@@ -1,6 +1,6 @@
 # paper-list
 
-privateERM
+## privateERM
 
 Kifer, D., Smith, A., & Thakurta, A. (2012). Private Convex Empirical Risk Minimization and High-dimensional Regression. Conference on Learning Theory.  
 http://101.96.10.63/www.cse.psu.edu/~ads22/pubs/KST12/KST12-2012-06-07-Colt-camera.pdf  
@@ -21,7 +21,7 @@ http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf
 
 ---
 
-dp optimization
+## dp optimization
 
 Zhang, J., Xiao, X., Yang, Y., Zhang, Z., & Winslett, M. (2013). PrivGene: differentially private model fitting using genetic algorithms. In Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data (pp. 665–676).  
 http://davidyinyang.weebly.com/uploads/9/8/6/2/9862052/privgene_final.pdf
@@ -30,7 +30,7 @@ http://davidyinyang.weebly.com/uploads/9/8/6/2/9862052/privgene_final.pdf
 
 ---
 
-dp histogram publishing
+## dp histogram publishing
 
 Dong Su, Jianneng Cao, Ninghui Li, Min Lyu: PrivPfC: differentially private data publication for classification. VLDB J. 27(2): 201-223 (2018).  
 https://link.springer.com/article/10.1007%2Fs00778-017-0492-3
@@ -45,7 +45,7 @@ code:https://github.com/McGill-DMaS/DiffGen
 
 ---
 
-Generalization Error Analysis
+## Generalization Error Analysis
 
 Shalev-Shwartz, S., & Srebro, N. (2008). SVM optimization: inverse dependence on training set size. In Proceedings of the 25th international conference on Machine learning (pp. 928–935).  
 http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
