@@ -45,4 +45,11 @@ code:https://github.com/McGill-DMaS/DiffGen
 
 ---
 
+杂
 
+Shalev-Shwartz, S., & Srebro, N. (2008). SVM optimization: inverse dependence on training set size. In Proceedings of the 25th international conference on Machine learning (pp. 928–935).  
+http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
+>SVM的训练时间随数据量上升而增加，若果限定最终模型的近似精度范围，那么当一部分数据就足够支持模型达到这个近似精度时，利用其余数据来加速训练  
+>文章中对于SVM泛化性能的分析方式在privateERM及其之后的工作中被广泛使用
+
+---
