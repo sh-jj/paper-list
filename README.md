@@ -6,13 +6,13 @@ Bassily, R., Smith, A. D., & Thakurta, A. (2014). Private Empirical Risk Minimiz
 https://arxiv.org/pdf/1405.7085.pdf  
 >利用sgd采样随机性的dp实现  
 >给出了dpERM的经验误差下界  
->基于Localization+EM的可实现的参数求解框架  
+>基于Localization+EM的可实现的参数求解框架(相较之前的(Kifer,2012)框架，给出了一个可实现的解法)  
   
 Kifer, D., Smith, A., & Thakurta, A. (2012). Private Convex Empirical Risk Minimization and High-dimensional Regression. Conference on Learning Theory.  
 http://101.96.10.63/www.cse.psu.edu/~ads22/pubs/KST12/KST12-2012-06-07-Colt-camera.pdf  
 >在目标扰动上引入高斯噪声，有更低的期望误差  
 >证明了目标扰动的privateERM在带有非处处可微的正则项时依然满足dp  
->分析了对于稀疏回归场景的应用  
+>分析了对于稀疏回归场景的应用（在一个较优的候选区域求解）  
 
 Chaudhuri, K., Monteleoni, C., & Sarwate, A. D. (2011). Differentially Private Empirical Risk Minimization. Journal of Machine Learning Research, 12, 1069–1109.  
 https://dl.acm.org/citation.cfm?id=2021036  
