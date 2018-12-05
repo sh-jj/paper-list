@@ -1,7 +1,13 @@
 # paper-list
 
-## privateERM
+## dp learning  
 
+Bassily, R., Smith, A. D., & Thakurta, A. (2014). Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds. In 2014 IEEE 55th Annual Symposium on Foundations of Computer Science (pp. 464–473).  
+https://arxiv.org/pdf/1405.7085.pdf  
+>利用sgd采样随机性的dp实现  
+>给出了dpERM的经验误差下界  
+>基于Localization+EM的可实现的参数求解框架  
+  
 Kifer, D., Smith, A., & Thakurta, A. (2012). Private Convex Empirical Risk Minimization and High-dimensional Regression. Conference on Learning Theory.  
 http://101.96.10.63/www.cse.psu.edu/~ads22/pubs/KST12/KST12-2012-06-07-Colt-camera.pdf  
 >在目标扰动上引入高斯噪声，有更低的期望误差  
