@@ -29,6 +29,12 @@ http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf
 
 ## dp optimization
 
+Song, S., Chaudhuri, K., & Sarwate, A. D. (2013). Stochastic gradient descent with differentially private updates. In 2013 IEEE Global Conference on Signal and Information Processing (pp. 245–248).  
+https://ieeexplore.ieee.org/document/6736861  
+>sgd的dp版本，基于一次梯度下降的函数敏感度对梯度加入噪声
+>mini-batch版本获得梯度提升
+>为了避免因迭代引起的privacy衰减，每个batch是不相交的，对整个数据集只能遍历一遍
+
 Zhang, J., Xiao, X., Yang, Y., Zhang, Z., & Winslett, M. (2013). PrivGene: differentially private model fitting using genetic algorithms. In Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data (pp. 665–676).  
 http://davidyinyang.weebly.com/uploads/9/8/6/2/9862052/privgene_final.pdf
 >将遗传算法的每一步作隐私化处理构建了满足差分隐私的参数求解方法  
