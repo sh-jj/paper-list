@@ -38,7 +38,8 @@ http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf
   
 	
 Jiaqi Zhang, Kai Zheng, Wenlong Mou, Liwei Wang:
-Efficient Private ERM for Smooth Objectives. IJCAI 2017: 3922-3928
+Efficient Private ERM for Smooth Objectives. IJCAI 2017: 3922-3928  
+https://www.ijcai.org/proceedings/2017/548  
 >- Gradient descent method with output perturbation. Compared with previous work(Raef Bassily, 2014), they improve the running time and show better experimental results.  
 >- Expand dp-GD to non-convex but smooth objectives. The method looks like that (Raef Bassily, 2014), the privacy and utility are been guaranteed in this paper.  
   
