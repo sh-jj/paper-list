@@ -77,6 +77,16 @@ code:https://github.com/McGill-DMaS/DiffGen
 
 ---
 
+## Composition of differential privacy
+
+Cynthia Dwork, Guy N. Rothblum, Salil P. Vadhan:  
+Boosting and Differential Privacy. FOCS 2010: 51-60  
+https://ieeexplore.ieee.org/document/5670947  
+>"Strong Composition"  
+>Boosting for Queries  
+
+---
+
 ## Generalization Error Analysis
 
 Shai Shalev-Shwartz, Nathan Srebro:  
