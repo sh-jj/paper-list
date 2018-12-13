@@ -89,7 +89,12 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 
 ## OverView and Tutorials
 
-Kamalika Chaudhuri, Anand D. Sarwate:
+Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu:  
+Differentially Private Data Publishing and Analysis: A Survey. IEEE Trans. Knowl. Data Eng. 29(8): 1619-1638 (2017)  
+https://ieeexplore.ieee.org/document/7911185  
+
+
+Kamalika Chaudhuri, Anand D. Sarwate:  
 Differentially Private Machine Learning: Theory, Algorithms, and Applications       nips2017 tutorial  
 https://www.ece.rutgers.edu/~asarwate/nips2017/  
 
