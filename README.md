@@ -79,6 +79,13 @@ code:https://github.com/McGill-DMaS/DiffGen
 
 ## Composition of differential privacy
 
+
+Martín Abadi, Andy Chu, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang:  
+Deep Learning with Differential Privacy. ACM Conference on Computer and Communications Security 2016: 308-318  
+https://arxiv.org/pdf/1607.00133.pdf  
+>Moments accountant with tighter estimates on the overall privacy loss  
+>Apply the accountant to neural networks  
+
 Cynthia Dwork, Guy N. Rothblum, Salil P. Vadhan:  
 Boosting and Differential Privacy. FOCS 2010: 51-60  
 https://ieeexplore.ieee.org/document/5670947  
