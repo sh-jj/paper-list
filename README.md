@@ -121,3 +121,9 @@ Differential Privacy: From Theory to Practice. Synthesis Lectures on Information
 https://ieeexplore.ieee.org/document/7731575?bkn=7731575  
 
 
+Cynthia Dwork, Aaron Roth:  
+The Algorithmic Foundations of Differential Privacy. Foundations and Trends in Theoretical Computer Science 9(3-4): 211-407 (2014)  
+http://nowpublishers.com/article/DownloadSummary/TCS-042  
+
+
+
