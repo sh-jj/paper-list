@@ -60,23 +60,6 @@ http://davidyinyang.weebly.com/uploads/9/8/6/2/9862052/privgene_final.pdf
 
 ---
 
-## dp histogram publishing
-
-Dong Su, Jianneng Cao, Ninghui Li, Min Lyu:  
-PrivPfC: differentially private data publication for classification. VLDB J. 27(2): 201-223 (2018)  
-https://link.springer.com/article/10.1007%2Fs00778-017-0492-3  
->PrivPfC，在DiffGen的基础上针对更多特征的数据集和二分类任务进行了优化，通过生成Generalization候选映射，然后直接选择的方式，略去了DiffGen中的迭代过程  
-code:https://github.com/DongSuIBM/PrivPfC
-
-
-Noman Mohammed, Rui Chen, Benjamin C. M. Fung, Philip S. Yu:  
-Differentially private data release for data mining. KDD 2011: 493-501  
-https://dl.acm.org/citation.cfm?id=2020408.2020487  
->DiffGen,za在满足dp的框架下实现隐私保护中常用的Generalization方法发布匿名化数据集，赋予其可证的保护程度  
-code:https://github.com/McGill-DMaS/DiffGen  
-
----
-
 ## Composition of differential privacy
 
 
@@ -91,6 +74,23 @@ Boosting and Differential Privacy. FOCS 2010: 51-60
 https://ieeexplore.ieee.org/document/5670947  
 >"Strong Composition"  
 >Boosting for Queries  
+
+---
+
+## dp histogram publishing
+
+Dong Su, Jianneng Cao, Ninghui Li, Min Lyu:  
+PrivPfC: differentially private data publication for classification. VLDB J. 27(2): 201-223 (2018)  
+https://link.springer.com/article/10.1007%2Fs00778-017-0492-3  
+>PrivPfC，在DiffGen的基础上针对更多特征的数据集和二分类任务进行了优化，通过生成Generalization候选映射，然后直接选择的方式，略去了DiffGen中的迭代过程  
+code:https://github.com/DongSuIBM/PrivPfC
+
+
+Noman Mohammed, Rui Chen, Benjamin C. M. Fung, Philip S. Yu:  
+Differentially private data release for data mining. KDD 2011: 493-501  
+https://dl.acm.org/citation.cfm?id=2020408.2020487  
+>DiffGen,za在满足dp的框架下实现隐私保护中常用的Generalization方法发布匿名化数据集，赋予其可证的保护程度  
+code:https://github.com/McGill-DMaS/DiffGen  
 
 ---
 
