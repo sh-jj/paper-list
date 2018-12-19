@@ -2,6 +2,12 @@
 
 ## dp learning  
 
+Beyza Ermis, Ali Taylan Cemgil:  
+Differentially Private Dropout. CoRR abs/1712.01665 (2017)  
+http://arxiv.org/abs/1712.01665  
+>introduce a noise interpretation to dropout, and prove the noise on gradient satisfies dp  
+
+
 Raef Bassily, Adam D. Smith, Abhradeep Thakurta:  
 Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds. FOCS 2014: 464-473  
 https://arxiv.org/pdf/1405.7085.pdf  
