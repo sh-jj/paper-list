@@ -3,6 +3,10 @@
 ## local differential privacy
 
 
+Kazuto Fukuchi, Quang Khai Tran, Jun Sakuma:  
+Differentially Private Empirical Risk Minimization with Input Perturbation. DS 2017: 82-90  
+https://link.springer.com/chapter/10.1007%2F978-3-319-67786-6_6  
+> It propose a framework(input perturbation) for ERM, use the representation(p,q) replace the original data(feature,label) in loss function. However, there isn't efficient solution in this paper.
 
 Thông T. Nguyên, Xiaokui Xiao, Yin Yang, Siu Cheung Hui, Hyejin Shin, Junbum Shin:  
 Collecting and Analyzing Data from Smart Device Users with Local Differential Privacy. CoRR abs/1606.05053 (2016)  
@@ -150,6 +154,9 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 
 ## OverView and Tutorials
 
+Graham Cormode, Somesh Jha, Tejas Kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang:  
+Privacy at Scale: Local Differential Privacy in Practice. SIGMOD Conference 2018: 1655-1658  
+https://sites.google.com/view/kdd2018-tutorial/home  
 
 Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu:  
 Differential Privacy and Applications. Advances in Information Security 69, Springer 2017, ISBN 978-3-319-62002-2, pp. 1-222  
