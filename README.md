@@ -5,8 +5,8 @@
 Thông T. Nguyên, Xiaokui Xiao, Yin Yang, Siu Cheung Hui, Hyejin Shin, Junbum Shin:  
 Collecting and Analyzing Data from Smart Device Users with Local Differential Privacy. CoRR abs/1606.05053 (2016)  
 https://arxiv.org/abs/1606.05053  
-> Harmony: a method to estimate mean and frequencies for multi-dimensional data containing both numerical and categorical attributes
-> local differentially private ERM: distributed sgd
+> - Harmony: a method to estimate mean and frequencies for multi-dimensional data containing both numerical and categorical attributes
+> - local differentially private ERM: distributed sgd
 
 
 Giulia C. Fanti, Vasyl Pihur, Úlfar Erlingsson:  
