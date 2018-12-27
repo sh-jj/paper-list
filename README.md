@@ -2,6 +2,13 @@
 
 ## local differential privacy
 
+Thông T. Nguyên, Xiaokui Xiao, Yin Yang, Siu Cheung Hui, Hyejin Shin, Junbum Shin:  
+Collecting and Analyzing Data from Smart Device Users with Local Differential Privacy. CoRR abs/1606.05053 (2016)  
+https://arxiv.org/abs/1606.05053  
+> Harmony: a method to estimate mean and frequencies for multi-dimensional data containing both numerical and categorical attributes
+> local differentially private ERM: distributed sgd
+
+
 Giulia C. Fanti, Vasyl Pihur, Úlfar Erlingsson:  
 Building a RAPPOR with the Unknown: Privacy-Preserving Learning of Associations and Data Dictionaries. PoPETs 2016(3): 41-61 (2016)  
 https://content.sciendo.com/view/journals/popets/2016/3/article-p41.xml  
@@ -135,6 +142,13 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 ---
 
 ## OverView and Tutorials
+
+
+Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu:  
+Differential Privacy and Applications. Advances in Information Security 69, Springer 2017, ISBN 978-3-319-62002-2, pp. 1-222  
+https://link.springer.com/book/10.1007%2F978-3-319-62004-6  
+
+
 
 Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu:  
 Differentially Private Data Publishing and Analysis: A Survey. IEEE Trans. Knowl. Data Eng. 29(8): 1619-1638 (2017)  
