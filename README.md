@@ -2,6 +2,12 @@
 
 ## local differential privacy
 
+Tianhao Wang, Jeremiah Blocki, Ninghui Li, Somesh Jha:  
+Locally Differentially Private Protocols for Frequency Estimation. USENIX Security Symposium 2017: 729-745  
+https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/wang-tianhao  
+> - The survey about existing LDP protocols on frequency estimation.
+> - Propose a pure framework and cast existing protocols(RAPPOR, Random Matrix Projection) into it.
+> - It utilizes the framework to optimize Unary Encoding(Basic RAPPOR) and Binary Local Hashing(Random Matrix Projection) and comp up with Optimal UE and Optimal Local Hashing.
 
 Kazuto Fukuchi, Quang Khai Tran, Jun Sakuma:  
 Differentially Private Empirical Risk Minimization with Input Perturbation. DS 2017: 82-90  
