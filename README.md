@@ -6,7 +6,8 @@
 Differential Privacy Team, Apple:  
 Learning with privacy at scale. 2017  
 https://machinelearning.apple.com/docs/learning-with-privacy-at-scale/appledifferentialprivacysystem.pdf  
->?
+> Apple's LDP solution on Frequency Estimation  
+> It combines Count Mean Sketch(a kind of hash method) and randomized response to realize local differential privacy. Besides, it uses Hadamard basis transform to reduce communcation between client and server.
 
 Bolin Ding, Janardhan Kulkarni, Sergey Yekhanin:  
 Collecting Telemetry Data Privately. NIPS 2017: 3574-3583  
