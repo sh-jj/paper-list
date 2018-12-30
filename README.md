@@ -5,7 +5,7 @@
 Bolin Ding, Janardhan Kulkarni, Sergey Yekhanin:  
 Collecting Telemetry Data Privately. NIPS 2017: 3574-3583  
 http://papers.nips.cc/paper/6948-collecting-telemetry-data-privately  
-> Microsoft's LDP solution to handle continous collection of data.
+> Microsoft's LDP solution to handle continous collection of data.  
 > Compared the memoization in RAPPOR, it adds rounding to protect user's private numeric values with small but frequent changes.
 
 Tianhao Wang, Jeremiah Blocki, Ninghui Li, Somesh Jha:  
@@ -43,6 +43,12 @@ Using Randomized Response for Differential Privacy Preserving Data Collection. E
 http://ceur-ws.org/Vol-1558/paper35.pdf  
 >For an attribute(binary/polychotomous), compare the utlity preservation between Randomized Response and Laplace Mechanism, and prove that Randomized Response outperforms the Laplace Mechanism.
 
+Úlfar Erlingsson, Vasyl Pihur, Aleksandra Korolova:  
+RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response. ACM Conference on Computer and Communications Security 2014: 1054-1067  
+https://doi.org/10.1145/2660267.2660348  
+code: https://github.com/google/rappor  
+> Google's LDP solution to handle one-time and tracking attacker.  
+> It constructs 2 levels's protection using Permanent randomized response and Instantaneous randomized response, the former is used to handle one-time collection and the later is used to handle windowed attacker who has access to multiple reports over time from the same user.
 
 John C. Duchi, Michael I. Jordan, Martin J. Wainwright:  
 Local Privacy and Statistical Minimax Rates. FOCS 2013: 429-438  
