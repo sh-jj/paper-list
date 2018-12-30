@@ -2,6 +2,12 @@
 
 ## local differential privacy
 
+Bolin Ding, Janardhan Kulkarni, Sergey Yekhanin:  
+Collecting Telemetry Data Privately. NIPS 2017: 3574-3583  
+http://papers.nips.cc/paper/6948-collecting-telemetry-data-privately  
+> Microsoft's LDP solution to handle continous collection of data.
+> Compared the memoization in RAPPOR, it adds rounding to protect user's private numeric values with small but frequent changes.
+
 Tianhao Wang, Jeremiah Blocki, Ninghui Li, Somesh Jha:  
 Locally Differentially Private Protocols for Frequency Estimation. USENIX Security Symposium 2017: 729-745  
 https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/wang-tianhao  
