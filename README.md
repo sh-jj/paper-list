@@ -182,7 +182,8 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 Graham Cormode, Somesh Jha, Tejas Kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang:  
 Privacy at Scale: Local Differential Privacy in Practice. SIGMOD Conference 2018: 1655-1658  
 https://sites.google.com/view/kdd2018-tutorial/home  
-video: https://www.youtube.com/watch?v=LQ8f0cV-Qdk  
+video: https://www.youtube.com/watch?v=LQ8f0cV-Qdk & https://www.youtube.com/watch?v=x_UiFuNqcOQ  
+
 
 Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu:  
 Differential Privacy and Applications. Advances in Information Security 69, Springer 2017, ISBN 978-3-319-62002-2, pp. 1-222  
