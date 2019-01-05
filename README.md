@@ -2,6 +2,10 @@
 
 ## local differential privacy
 
+Robin C. Geyer, Tassilo Klein, Moin Nabi:  
+Differentially Private Federated Learning: A Client Level Perspective. CoRR abs/1712.07557 (2017)  
+https://arxiv.org/abs/1712.07557  
+> Client-level dp protection, the method is the same with the dp-sgd which regards the client's database as a bag.
 
 Differential Privacy Team, Apple:  
 Learning with privacy at scale. 2017  
