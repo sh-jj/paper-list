@@ -2,6 +2,16 @@
 
 ## local differential privacy
 
+
+Stacey Truex, Nathalie Baracaldo, Ali Anwar, Thomas Steinke, Heiko Ludwig, Rui Zhang:  
+A Hybrid Approach to Privacy-Preserving Federated Learning. CoRR abs/1812.03224 (2018)  
+> Differentially private federated learning with secure multiparty computation(SMC)  
+> It utilizes SMC to reduce the noise added on gradient.
+
+Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas:
+Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTATS 2017: 1273-1282
+> Federated Learning
+
 Robin C. Geyer, Tassilo Klein, Moin Nabi:  
 Differentially Private Federated Learning: A Client Level Perspective. CoRR abs/1712.07557 (2017)  
 https://arxiv.org/abs/1712.07557  
@@ -69,8 +79,15 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 
 ---
 
-## dp learning  
+## dp ML
 
+Jiaqi Zhang, Kai Zheng, Wenlong Mou, Liwei Wang:
+Efficient Private ERM for Smooth Objectives. IJCAI 2017: 3922-3928  
+https://www.ijcai.org/proceedings/2017/548  
+>- Gradient descent method with output perturbation. Compared with previous work(Raef Bassily, 2014), they improve the running time and show better experimental results.  
+>- Expand dp-GD to non-convex but smooth objectives. The method looks like that (Raef Bassily, 2014), the privacy and utility are been guaranteed in this paper.  
+  
+  
 Beyza Ermis, Ali Taylan Cemgil:  
 Differentially Private Dropout. CoRR abs/1712.01665 (2017)  
 http://arxiv.org/abs/1712.01665  
@@ -83,6 +100,21 @@ https://arxiv.org/pdf/1405.7085.pdf
 >利用sgd采样随机性的dp实现  
 >给出了dpERM的经验误差下界  
 >基于Localization+EM的可实现的参数求解框架(相较之前的(Kifer,2012)框架，给出了一个可实现的解法)  
+
+
+Shuang Song, Kamalika Chaudhuri, Anand D. Sarwate:  
+Stochastic gradient descent with differentially private updates. GlobalSIP 2013: 245-248  
+https://ieeexplore.ieee.org/document/6736861  
+>sgd的dp版本，基于一次梯度下降的函数敏感度对梯度加入噪声
+>mini-batch版本获得梯度提升
+>为了避免因迭代引起的privacy衰减，每个batch是不相交的，对整个数据集只能遍历一遍
+
+
+Jun Zhang, Xiaokui Xiao, Yin Yang, Zhenjie Zhang, Marianne Winslett:  
+PrivGene: differentially private model fitting using genetic algorithms. SIGMOD Conference 2013: 665-676  
+http://davidyinyang.weebly.com/uploads/9/8/6/2/9862052/privgene_final.pdf
+>将遗传算法的每一步作隐私化处理构建了满足差分隐私的参数求解方法  
+>提出了EEM(增强的指数机制)用于隐私地选择，当候选参数随着迭代求解过程而趋于相同时，EEM较EM能提供更小的噪声  
 
   
 Daniel Kifer, Adam D. Smith, Abhradeep Thakurta:  
@@ -106,32 +138,6 @@ Privacy-preserving logistic regression. NIPS 2008: 289-296
 http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf  
 >分析了带正则逻辑回归输出的函数敏感度，提出了在输出上增加Laplace噪声达成dp的lr  
 >在目标函数中增加随机向量b，由b的随机性导出优化求得解的随机性，称为目标扰动的lr  
-
----
-
-## dp optimization
-  
-	
-Jiaqi Zhang, Kai Zheng, Wenlong Mou, Liwei Wang:
-Efficient Private ERM for Smooth Objectives. IJCAI 2017: 3922-3928  
-https://www.ijcai.org/proceedings/2017/548  
->- Gradient descent method with output perturbation. Compared with previous work(Raef Bassily, 2014), they improve the running time and show better experimental results.  
->- Expand dp-GD to non-convex but smooth objectives. The method looks like that (Raef Bassily, 2014), the privacy and utility are been guaranteed in this paper.  
-  
-  
-Shuang Song, Kamalika Chaudhuri, Anand D. Sarwate:  
-Stochastic gradient descent with differentially private updates. GlobalSIP 2013: 245-248  
-https://ieeexplore.ieee.org/document/6736861  
->sgd的dp版本，基于一次梯度下降的函数敏感度对梯度加入噪声
->mini-batch版本获得梯度提升
->为了避免因迭代引起的privacy衰减，每个batch是不相交的，对整个数据集只能遍历一遍
-
-
-Jun Zhang, Xiaokui Xiao, Yin Yang, Zhenjie Zhang, Marianne Winslett:  
-PrivGene: differentially private model fitting using genetic algorithms. SIGMOD Conference 2013: 665-676  
-http://davidyinyang.weebly.com/uploads/9/8/6/2/9862052/privgene_final.pdf
->将遗传算法的每一步作隐私化处理构建了满足差分隐私的参数求解方法  
->提出了EEM(增强的指数机制)用于隐私地选择，当候选参数随着迭代求解过程而趋于相同时，EEM较EM能提供更小的噪声  
 
 ---
 
