@@ -177,6 +177,11 @@ code:https://github.com/McGill-DMaS/DiffGen
 
 ## Generalization Error Analysis
 
+Karthik Sridharan, Shai Shalev-Shwartz, Nathan Srebro:  
+Fast Rates for Regularized Objectives. NIPS 2008: 1545-1552  
+http://papers.nips.cc/paper/3400-fast-rates-for-regularized-objectives  
+  
+
 Shai Shalev-Shwartz, Nathan Srebro:  
 SVM optimization: inverse dependence on training set size. ICML 2008: 928-935  
 http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
