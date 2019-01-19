@@ -180,6 +180,7 @@ code:https://github.com/McGill-DMaS/DiffGen
 Karthik Sridharan, Shai Shalev-Shwartz, Nathan Srebro:  
 Fast Rates for Regularized Objectives. NIPS 2008: 1545-1552  
 http://papers.nips.cc/paper/3400-fast-rates-for-regularized-objectives  
+> Convergence properties of empirical minimization of a stochastic strongly convex objective, where the stochastic component is linear.(SVM/Logistic Regression)
   
 
 Shai Shalev-Shwartz, Nathan Srebro:  
