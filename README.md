@@ -8,7 +8,7 @@ A Hybrid Approach to Privacy-Preserving Federated Learning. CoRR abs/1812.03224 
 > Differentially private federated learning with secure multiparty computation(SMC)  
 > It utilizes SMC to reduce the noise added on gradient.
 
-Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas:
+Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas:  
 Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTATS 2017: 1273-1282
 > Federated Learning
 
