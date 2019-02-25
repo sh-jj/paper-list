@@ -2,14 +2,20 @@
 
 ## local differential privacy
 
+Abhishek Bhowmick, John Duchi, Julien Freudiger, Gaurav Kapoor, Ryan Rogers:  
+Protection Against Reconstruction and Its Applications in Private Federated Learning. CoRR abs/1812.00984 (2018)  
+https://arxiv.org/abs/1812.00984  
+> They devlop a new private mechanism for releasing high dimensional vectors to applied in federated learning. To be detailed, it separately privatize vector's direction and magnitude. As a result, they show the experiment in image classification and language models that is comparable to federated learning without these privacy restrictions.
 
 Stacey Truex, Nathalie Baracaldo, Ali Anwar, Thomas Steinke, Heiko Ludwig, Rui Zhang:  
 A Hybrid Approach to Privacy-Preserving Federated Learning. CoRR abs/1812.03224 (2018)  
+https://arxiv.org/abs/1812.03224  
 > Differentially private federated learning with secure multiparty computation(SMC)  
 > It utilizes SMC to reduce the noise added on gradient.
 
 Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas:  
-Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTATS 2017: 1273-1282
+Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTATS 2017: 1273-1282  
+http://proceedings.mlr.press/v54/mcmahan17a.html  
 > Federated Learning
 
 Robin C. Geyer, Tassilo Klein, Moin Nabi:  
