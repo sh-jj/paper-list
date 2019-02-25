@@ -1,6 +1,7 @@
 # paper-list
 
-## local differential privacy
+
+## Federated Learning
 
 Abhishek Bhowmick, John Duchi, Julien Freudiger, Gaurav Kapoor, Ryan Rogers:  
 Protection Against Reconstruction and Its Applications in Private Federated Learning. CoRR abs/1812.00984 (2018)  
@@ -18,10 +19,25 @@ Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTA
 http://proceedings.mlr.press/v54/mcmahan17a.html  
 > Federated Learning
 
+
 Robin C. Geyer, Tassilo Klein, Moin Nabi:  
 Differentially Private Federated Learning: A Client Level Perspective. CoRR abs/1712.07557 (2017)  
 https://arxiv.org/abs/1712.07557  
 > Client-level dp protection, the method is the same with the dp-sgd which regards the client's database as a bag.
+
+---
+
+## Security Principles
+
+Martín Abadi, Úlfar Erlingsson, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Nicolas Papernot, Kunal Talwar, Li Zhang:  
+On the Protection of Private Information in Machine Learning Systems: Two Recent Approches. CSF 2017: 1-6  
+https://ieeexplore.ieee.org/document/8049647  
+> It compares Noisy-SGD and PATE on some fundamental principles when designing a privacy-protection system.
+
+---
+
+## Local Differential Privacy
+
 
 Differential Privacy Team, Apple:  
 Learning with privacy at scale. 2017  
@@ -85,7 +101,7 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 
 ---
 
-## dp ML
+## Machine Learning with Centralized Differential privacy
 
 Jiaqi Zhang, Kai Zheng, Wenlong Mou, Liwei Wang:
 Efficient Private ERM for Smooth Objectives. IJCAI 2017: 3922-3928  
@@ -230,6 +246,5 @@ https://ieeexplore.ieee.org/document/7731575?bkn=7731575
 Cynthia Dwork, Aaron Roth:  
 The Algorithmic Foundations of Differential Privacy. Foundations and Trends in Theoretical Computer Science 9(3-4): 211-407 (2014)  
 http://nowpublishers.com/article/DownloadSummary/TCS-042  
-
 
 
