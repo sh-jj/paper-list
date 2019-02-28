@@ -3,6 +3,11 @@
 
 ## Federated Learning
 
+Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, Vitaly Shmatikov:  
+How To Backdoor Federated Learning. CoRR abs/1807.00459 (2018)  
+https://arxiv.org/abs/1807.00459  
+> It demonstrates that any participant in federated learning can introduce hidden backdoor functionality into the joint global model. By model replacement, the inside attacker can make the global model to behave a certain way on specific, attack-chosen backdoor inputs, while global model maintains good accuracy on main task.
+
 Abhishek Bhowmick, John Duchi, Julien Freudiger, Gaurav Kapoor, Ryan Rogers:  
 Protection Against Reconstruction and Its Applications in Private Federated Learning. CoRR abs/1812.00984 (2018)  
 https://arxiv.org/abs/1812.00984  
