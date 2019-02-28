@@ -122,6 +122,10 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 
 ## Machine Learning with Centralized Differential privacy
 
+Jaewoo Lee, Daniel Kifer:  
+Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget. KDD 2018: 1656-1665  
+> The motivation is that we need more accurate gradients in later iteration. And this is the first private gradient-based algorithm in which the privacy budget and step size for each iteration is dynamically determined at runtime based on the quality of the noisy statistics obtained for the current iteration.
+
 Jiaqi Zhang, Kai Zheng, Wenlong Mou, Liwei Wang:
 Efficient Private ERM for Smooth Objectives. IJCAI 2017: 3922-3928  
 https://www.ijcai.org/proceedings/2017/548  
