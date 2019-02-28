@@ -26,6 +26,13 @@ https://arxiv.org/abs/1712.07557
 > Client-level dp protection, the method is the same with the dp-sgd which regards the client's database as a bag.
 
 ---
+## Distributed Learning
+
+Jihun Hamm, Yingjun Cao, Mikhail Belkin:  
+Learning privately from multiparty data. ICML 2016: 555-563  
+http://proceedings.mlr.press/v48/hamm16.html  
+> It use cheap auxiliary unlabeled data and local classifier ensemble to create fresh labeled data and then train a differentially private classifier.  
+
 
 ## Security Principles
 
