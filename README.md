@@ -28,6 +28,13 @@ https://arxiv.org/abs/1712.07557
 ---
 ## Distributed Learning
 
+Bargav Jayaraman, Lingxiao Wang, David Evans, Quanquan Gu:  
+Distributed Learning without Distress: Privacy-Preserving Empirical Risk Minimization. NeurIPS 2018: 6346-6357  
+http://papers.nips.cc/paper/7871-distributed-learning-without-distress-privacy-preserving-empirical-risk-minimization  
+Code:https://github.com/bargavj/distributedMachineLearning  
+> It combines differential privacy and secure multi-party computation in the application of distributed learning. The output perturbation method is computationally more efficient and gradient perturbation method maintains high accuracy regardless of how the data is partitioned.
+> ps: To be personally, the second method that iteratively compuate the gradient is the same as federated learning.
+
 Jihun Hamm, Yingjun Cao, Mikhail Belkin:  
 Learning privately from multiparty data. ICML 2016: 555-563  
 http://proceedings.mlr.press/v48/hamm16.html  
