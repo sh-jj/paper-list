@@ -240,6 +240,10 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 
 ## OverView and Tutorials
 
+Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong  
+Federated Machine Learning: Concept and Applications. ACM Transactions on Intelligent Systems and Technology (TIST) Volume 10 Issue 2, Article No. 12, January 2019  
+https://arxiv.org/abs/1902.04885  
+
 Graham Cormode, Somesh Jha, Tejas Kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang:  
 Privacy at Scale: Local Differential Privacy in Practice. SIGMOD Conference 2018: 1655-1658  
 http://dimacs.rutgers.edu/~graham/pubs/html/CormodeJhaKulkarniLiSrivastavaWang18.html  
