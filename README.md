@@ -19,6 +19,12 @@ https://arxiv.org/abs/1812.03224
 > Differentially private federated learning with secure multiparty computation(SMC)  
 > It utilizes SMC to reduce the noise added on gradient.
 
+Keith Bonawitz, Vladimir Ivanov, Ben Kreuter, Antonio Marcedone, H. Brendan McMahan, Sarvar Patel, Daniel Ramage, Aaron Segal, Karn Seth:  
+Practical Secure Aggregation for Privacy-Preserving Machine Learning. ACM Conference on Computer and Communications Security 2017: 1175-1191  
+https://dl.acm.org/citation.cfm?doid=3133956.3133982  
+> A new efficient technology to handle multi-party computation for high dimension vectors.
+
+
 Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas:  
 Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTATS 2017: 1273-1282  
 http://proceedings.mlr.press/v54/mcmahan17a.html  
