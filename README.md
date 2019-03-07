@@ -242,6 +242,7 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 
 ---
 
+## Differential Privacy (Source)
 
 Cynthia Dwork, Frank McSherry, Kobbi Nissim, Adam D. Smith:  
 Calibrating Noise to Sensitivity in Private Data Analysis. TCC 2006: 265-284  
