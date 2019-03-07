@@ -221,7 +221,7 @@ code:https://github.com/DongSuIBM/PrivPfC
 Noman Mohammed, Rui Chen, Benjamin C. M. Fung, Philip S. Yu:  
 Differentially private data release for data mining. KDD 2011: 493-501  
 https://dl.acm.org/citation.cfm?id=2020408.2020487  
->DiffGen,za在满足dp的框架下实现隐私保护中常用的Generalization方法发布匿名化数据集，赋予其可证的保护程度  
+>DiffGen,在满足dp的框架下实现隐私保护中常用的Generalization方法发布匿名化数据集，赋予其可证的保护程度  
 code:https://github.com/McGill-DMaS/DiffGen  
 
 ---
@@ -240,7 +240,16 @@ http://ttic.uchicago.edu/~shai/papers/SSSICML08.pdf
 >SVM的训练时间随数据量上升而增加，若果限定最终模型的近似精度范围，那么当一部分数据就足够支持模型达到这个近似精度时，利用其余数据来加速训练  
 >文章中对于SVM泛化性能的分析方式在privateERM及其之后的工作中被广泛使用
 
+---
 
+
+Cynthia Dwork, Frank McSherry, Kobbi Nissim, Adam D. Smith:  
+Calibrating Noise to Sensitivity in Private Data Analysis. TCC 2006: 265-284  
+https://link.springer.com/chapter/10.1007%2F11681878_14  
+
+Cynthia Dwork:  
+Differential Privacy. ICALP (2) 2006: 1-12  
+https://link.springer.com/chapter/10.1007%2F11787006_1  
 
 ---
 
