@@ -1,5 +1,11 @@
 # paper-list
 
+## Semi-Supervised Learning
+
+Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou:  
+Learning Safe Prediction for Semi-Supervised Regression. AAAI 2017: 2217-2223  
+https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14587  
+> A safe prediction from multiple semi-supervised regressors, which is better than a supervised learner in the worset situation. To be detailed, the problem is changed to a projection.
 
 ## Federated Learning
 
