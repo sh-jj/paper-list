@@ -204,7 +204,7 @@ http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf
 Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith:  
 Smooth sensitivity and sampling in private data analysis. STOC 2007: 75-84  
 https://doi.org/10.1145/1250790.1250803  
-> It proposed the concept of local sensitivity, that can be considered to add noise and make the protection. In some cases, the local sensitivity is much smaller than the global sensitivity and to maintain the uility of algorithm. However, the local computation of local sensitivity is difficult. To handle it, it provides the sample and aggregate framework to estimate the local sensitivity.
+> It proposed the concept of local sensitivity, that can be considered to add noise and make the protection. In some cases, the local sensitivity is much smaller than the global sensitivity and to maintain the uility of algorithm. However, the local computation of local sensitivity is difficult. To handle it, it provides the sample and aggregate framework to approximate the local sensitivity.
 
 
 ---
