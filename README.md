@@ -132,7 +132,7 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 
 ---
 
-## Machine Learning with Centralized Differential privacy
+## Machine Learning with Differential privacy
 
 Jaewoo Lee, Daniel Kifer:  
 Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget. KDD 2018: 1656-1665  
@@ -149,6 +149,11 @@ Beyza Ermis, Ali Taylan Cemgil:
 Differentially Private Dropout. CoRR abs/1712.01665 (2017)  
 http://arxiv.org/abs/1712.01665  
 >introduce a noise interpretation to dropout, and prove the noise on gradient satisfies dp  
+
+Yining Wang, Yu-Xiang Wang, Aarti Singh:  
+Differentially private subspace clustering. NIPS 2015: 1000-1008  
+http://papers.nips.cc/paper/5991-differentially-private-subspace-clustering  
+> It utilities local sensitivity and the assumption which dataset is well-separated in k-subspace clustering to realize the subspace clustering with differential privacy. More specially, it proposed two method that use sample and aggregate framework and exponential mechanism respectively.
 
 
 Raef Bassily, Adam D. Smith, Abhradeep Thakurta:  
@@ -195,6 +200,12 @@ Privacy-preserving logistic regression. NIPS 2008: 289-296
 http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf  
 >分析了带正则逻辑回归输出的函数敏感度，提出了在输出上增加Laplace噪声达成dp的lr  
 >在目标函数中增加随机向量b，由b的随机性导出优化求得解的随机性，称为目标扰动的lr  
+
+Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith:  
+Smooth sensitivity and sampling in private data analysis. STOC 2007: 75-84  
+https://doi.org/10.1145/1250790.1250803  
+> It proposed the concept of local sensitivity, that can be considered to add noise and make the protection. In some cases, the local sensitivity is much smaller than the global sensitivity and to maintain the uility of algorithm. However, the local computation of local sensitivity is difficult. To handle it, it provides the sample and aggregate framework to estimate the local sensitivity.
+
 
 ---
 
