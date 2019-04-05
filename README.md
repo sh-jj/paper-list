@@ -6,7 +6,7 @@ Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian J. Goodfellow, Kunal Tal
 Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017  
 https://openreview.net/forum?id=HkwoSDP  
 > The paper presents a general teacher-student approach for differentially-private learning in which the student learns to predict a noise vote among a set of teachers. The noise allows the student to be differentially private, whilst maintaining good classification accuracies on MNIST and SVHN. 
-> It divides the dataset to some disjoint subsets and provide client-level dp, then use semi-supervised learning to utlize non-private unlabeled data and obtain a student model. Take notice of that this framework don't limit the teacher models and student model, which is different from [Jihun Hamm ICML 2016](http://proceedings.mlr.press/v48/hamm16.html).
+> It divides the dataset to some disjoint subsets and provide client-level dp, then use semi-supervised learning to utlize non-private unlabeled data and obtain a student model. Bscause aggregation is much easier to add noise than learning. Take notice of that this framework don't limit the teacher models and student model, which is different from ([Jihun Hamm ICML 2016](http://proceedings.mlr.press/v48/hamm16.html)).
 
 
 Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou:  
@@ -63,6 +63,11 @@ Jihun Hamm, Yingjun Cao, Mikhail Belkin:
 Learning privately from multiparty data. ICML 2016: 555-563  
 http://proceedings.mlr.press/v48/hamm16.html  
 > It use cheap auxiliary unlabeled data and local classifier ensemble to create fresh labeled data and then train a differentially private classifier. Notice that, the student model should be a private learning which be limited in convex and linear in differentially private scenario.
+
+Manas A. Pathak, Shantanu Rane, Bhiksha Raj:  
+Multiparty Differential Privacy via Aggregation of Locally Trained Classifiers. NIPS 2010: 1876-1884  
+http://papers.nips.cc/paper/4034-multiparty-differential-privacy-via-aggregation-of-locally-trained-classifiers  
+> It constructs SMC to average the multipary model parameters and add the noise to result, such that it provides client-level protection.
 
 ## Security Principles
 
