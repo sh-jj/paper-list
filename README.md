@@ -15,11 +15,23 @@ https://openreview.net/forum?id=HkwoSDP
 > The paper presents a general teacher-student approach for differentially-private learning in which the student learns to predict a noise vote among a set of teachers. The noise allows the student to be differentially private, whilst maintaining good classification accuracies on MNIST and SVHN. 
 > It divides the dataset to some disjoint subsets and provide client-level dp, then use semi-supervised learning to utlize non-private unlabeled data and obtain a student model. Bscause aggregation is much easier to add noise than learning. Take notice of that this framework don't limit the teacher models and student model, which is different from ([Jihun Hamm ICML 2016](http://proceedings.mlr.press/v48/hamm16.html)).
 
+Xu Long, Jun Sakuma:  
+Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6  
+> For a specific SSL(tranductive k-NN learning), it considers privacy of labeled instances and proivdes differentially private protection.
+> However, it ignores privacy of unlabeled instances and the setting(k-mutual neighbor) limits the effect of unlabeled instances.
 
 Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou:  
 Learning Safe Prediction for Semi-Supervised Regression. AAAI 2017: 2217-2223  
 https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14587  
 > A safe prediction from multiple semi-supervised regressors, which is better than a supervised learner in the worset situation. To be detailed, the problem is transfromed to a projection.
+
+
+Geetha Jagannathan, Claire Monteleoni, Krishnan Pillaipakkamnatt:  
+A Semi-Supervised Learning Approach to Differential Privacy. ICDM Workshops 2013: 841-848  
+https://ieeexplore.ieee.org/document/6754008  
+> It expends dp Random Decision Tree to utlize unlabeled data, but it only consider the privacy of labeled data. The unlabeled data is considered to be public and non-private. In general, it utlize unlabeled data as auxiliary information to boost performance of dp mechanism.
+
+
 
 ## Federated Learning
 
@@ -151,6 +163,9 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 ---
 
 ## Machine Learning with Differential privacy
+
+Xu Long, Jun Sakuma:
+Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6
 
 Jaewoo Lee, Daniel Kifer:  
 Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget. KDD 2018: 1656-1665  
