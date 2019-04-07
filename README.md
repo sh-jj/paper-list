@@ -2,6 +2,13 @@
 
 ## Semi-Supervised Learning
 
+
+
+Anh T. Pham, Jing Xi:  
+Differentially Private Semi-Supervised Learning With Known Class Priors. BigData 2018: 801-810  
+https://ieeexplore.ieee.org/document/8622071
+> It presents a framework for semi-supervised learning, assuming known class priors, and provides the theoretical guarantee on the optimal risk. Under this setting, they give the differentially private learning on the framework. However, they make mistakes on addition of noise, which have been corrected in [[Kamalika Chaudhuri 2011](https://dl.acm.org/citation.cfm?id=2021036)].
+
 Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian J. Goodfellow, Kunal Talwar:  
 Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017  
 https://openreview.net/forum?id=HkwoSDP  
