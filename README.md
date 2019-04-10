@@ -17,6 +17,7 @@ https://openreview.net/forum?id=HkwoSDP
 
 Xu Long, Jun Sakuma:  
 Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6  
+https://ieeexplore.ieee.org/document/7947001  
 > For a specific SSL(tranductive k-NN learning), it considers privacy of labeled instances and proivdes differentially private protection.
 > However, it ignores privacy of unlabeled instances and the setting(k-mutual neighbor) limits the effect of unlabeled instances.
 
