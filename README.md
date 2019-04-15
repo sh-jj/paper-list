@@ -34,6 +34,11 @@ Graph Quality Judgement: A Large Margin Expedition. IJCAI 2016: 1725-1731
 http://lamda.nju.edu.cn/liyf/paper/ijcai16-lead.pdf  
 > If we have some prediction based on different SSL, we can build a aggregation as 'LEAD', which this paper proposed to maximize the margin of unlabeled data. A larger margin on unlabeled data means lower risk of performance degeneration. For this purpose, it use S3VM to learn a linear combination of multiple prediction by different SSL, which have the max margin.
 
+Yu-Feng Li, Zhi-Hua Zhou:  
+Towards Making Unlabeled Data Never Hurt. IEEE Trans. Pattern Anal. Mach. Intell. 37(1): 175-188 (2015)  
+http://lamda.nju.edu.cn/liyf/paper/TPAMI15-S4VM.pdf  
+> There are more than a large margin in semi-supervised data, which are diverse, choose one of them directly may lead to performance degeneration. It use S3VMs to generate a pool of separators, and maximize the worst-case improvement over inductive SVM, the method proposed are called S4VM.
+
 Geetha Jagannathan, Claire Monteleoni, Krishnan Pillaipakkamnatt:  
 A Semi-Supervised Learning Approach to Differential Privacy. ICDM Workshops 2013: 841-848  
 https://ieeexplore.ieee.org/document/6754008  
