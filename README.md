@@ -15,13 +15,13 @@ https://ieeexplore.ieee.org/document/8622071
 Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian J. Goodfellow, Kunal Talwar:  
 Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017  
 https://openreview.net/forum?id=HkwoSDP  
-> The paper presents a general teacher-student approach for differentially-private learning in which the student learns to predict a noise vote among a set of teachers. The noise allows the student to be differentially private, whilst maintaining good classification accuracies on MNIST and SVHN. 
+> The paper presents a general teacher-student approach for differentially-private learning in which the student learns to predict a noise vote among a set of teachers. The noise allows the student to be differentially private, whilst maintaining good classification accuracies on MNIST and SVHN.  
 > It divides the dataset to some disjoint subsets and provide client-level dp, then use semi-supervised learning to utlize non-private unlabeled data and obtain a student model. Bscause aggregation is much easier to add noise than learning. Take notice of that this framework don't limit the teacher models and student model, which is different from ([Jihun Hamm ICML 2016](http://proceedings.mlr.press/v48/hamm16.html)).
 
 Xu Long, Jun Sakuma:  
 Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6  
 https://ieeexplore.ieee.org/document/7947001  
-> For a specific SSL(tranductive k-NN learning), it considers privacy of labeled instances and proivdes differentially private protection.
+> For a specific SSL(tranductive k-NN learning), it considers privacy of labeled instances and proivdes differentially private protection.  
 > However, it ignores privacy of unlabeled instances and the setting(k-mutual neighbor) limits the effect of unlabeled instances.
 
 Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou:  
@@ -42,7 +42,7 @@ https://ieeexplore.ieee.org/document/6754008
 Yu-Feng Li, Zhi-Hua Zhou:  
 Improving Semi-Supervised Support Vector Machines Through Unlabeled Instances Selection. AAAI 2011  
 http://lamda.nju.edu.cn/liyf/paper/aaai11-s3vm-us.pdf  
-> If we have got prediction from SVM and S3VM, it proposed a method to provide guide which prediction we should choose. It performed hierarchical clustering on unlabeled data, and use the delta of the length of the paths from instance_i to its nearest positive and negative labeled instances to represent the confidence. The higher confidence means lower risk of the unlabled instances. For unlabeled instances with higher confdence, we would predict it by S3VM, otherwises by SVM.
+> If we have got prediction from SVM and S3VM, it proposed a method to provide guide which prediction we should choose. It performed hierarchical clustering on unlabeled data, and use the delta of the length of the paths from instance_i to its nearest positive and negative labeled instances to represent the confidence. The higher confidence means lower risk of the unlabled instances. For unlabeled instances with higher confdence, we would predict it by S3VM, otherwises by SVM.  
 > It have not exclude influence on S3VM by unlabeled instances with high risk.
 
 ## Federated Learning
