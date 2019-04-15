@@ -39,7 +39,11 @@ A Semi-Supervised Learning Approach to Differential Privacy. ICDM Workshops 2013
 https://ieeexplore.ieee.org/document/6754008  
 > It expends dp Random Decision Tree to utlize unlabeled data, but it only consider the privacy of labeled data. The unlabeled data is considered to be public and non-private. In general, it utlize unlabeled data as auxiliary information to boost performance of dp mechanism.
 
-
+Yu-Feng Li, Zhi-Hua Zhou:  
+Improving Semi-Supervised Support Vector Machines Through Unlabeled Instances Selection. AAAI 2011  
+http://lamda.nju.edu.cn/liyf/paper/aaai11-s3vm-us.pdf  
+> If we have got prediction from SVM and S3VM, it proposed a method to provide guide which prediction we should choose. It performed hierarchical clustering on unlabeled data, and use the delta of the length of the paths from instance_i to its nearest positive and negative labeled instances to represent the confidence. The higher confidence means lower risk of the unlabled instances. For unlabeled instances with higher confdence, we would predict it by S3VM, otherwises by SVM.
+> It have not exclude influence on S3VM by unlabeled instances with high risk.
 
 ## Federated Learning
 
