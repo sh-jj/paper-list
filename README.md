@@ -2,7 +2,10 @@
 
 ## Semi-Supervised Learning
 
-
+Hai Wang, Shao-Bo Wang, Yu-Feng Li:  
+Instance selection method for improving graph-based semi-supervised learning. Frontiers Comput. Sci. 12(4): 725-735 (2018)  
+http://lamda.nju.edu.cn/liyf/paper/FCS18-gsslis.pdf  
+> It use confidence to aggregate prediction by SSL based on different kinds of graph and decrease the risk of performance degeneration.
 
 Anh T. Pham, Jing Xi:  
 Differentially Private Semi-Supervised Learning With Known Class Priors. BigData 2018: 801-810  
@@ -26,6 +29,10 @@ Learning Safe Prediction for Semi-Supervised Regression. AAAI 2017: 2217-2223
 https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14587  
 > A safe prediction from multiple semi-supervised regressors, which is better than a supervised learner in the worset situation. To be detailed, the problem is transfromed to a projection.
 
+Yu-Feng Li, Shao-Bo Wang, Zhi-Hua Zhou:  
+Graph Quality Judgement: A Large Margin Expedition. IJCAI 2016: 1725-1731  
+http://lamda.nju.edu.cn/liyf/paper/ijcai16-lead.pdf  
+> If we have some prediction based on different SSL, we can build a aggregation as 'LEAD', which this paper proposed to maximize the margin of unlabeled data. A larger margin on unlabeled data means lower risk of performance degeneration. For this purpose, it use S3VM to learn a linear combination of multiple prediction by different SSL, which have the max margin.
 
 Geetha Jagannathan, Claire Monteleoni, Krishnan Pillaipakkamnatt:  
 A Semi-Supervised Learning Approach to Differential Privacy. ICDM Workshops 2013: 841-848  
@@ -306,6 +313,10 @@ https://link.springer.com/chapter/10.1007%2F11787006_1
 ---
 
 ## OverView and Tutorials
+
+Yu-Feng Li, De-Ming Liang  
+Safe Semi-Supervised Learning: A Brief Introduction. Frontiers of Computer Science (FCS)  
+http://lamda.nju.edu.cn/liyf/paper/fcs19-safessl.pdf  
 
 Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong  
 Federated Machine Learning: Concept and Applications. ACM Transactions on Intelligent Systems and Technology (TIST) Volume 10 Issue 2, Article No. 12, January 2019  
