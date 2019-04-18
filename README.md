@@ -251,6 +251,11 @@ http://www.cse.psu.edu/~ads22/privacy598/papers/cm08.pdf
 >分析了带正则逻辑回归输出的函数敏感度，提出了在输出上增加Laplace噪声达成dp的lr  
 >在目标函数中增加随机向量b，由b的随机性导出优化求得解的随机性，称为目标扰动的lr  
 
+Arik Friedman, Assaf Schuster:  
+Data mining with differential privacy. KDD 2010: 493-502  
+https://doi.org/10.1145/1835804.1835868  
+> Differentially private ID3 algorithm. They split the node by exponential mechanism, and relize pruning by 'error based pruning'.
+
 Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith:  
 Smooth sensitivity and sampling in private data analysis. STOC 2007: 75-84  
 https://doi.org/10.1145/1250790.1250803  
