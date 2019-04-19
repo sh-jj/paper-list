@@ -1,5 +1,22 @@
 # paper-list
 
+## Unsupervised Learning with differential privacy
+
+Dan Feldman, Amos Fiat, Haim Kaplan, Kobbi Nissim:  
+Private coresets. STOC 2009: 361-370  
+https://dl.acm.org/citation.cfm?doid=1536414.1536465 
+> Coreset is a notation in computational geometry which be used to approximate the queries on original points. This paper show that coreset with differential privacy can be built by efficient algorithm. Especially, for the queries like k-means or k-median, they provide theoretical bound.  
+> Notice:  
+The non-private coreset is excepted to be built within fewer points, but private coreset may be larger than original set.  
+The private coreset for other purpose are worthy for exploring.
+
+
+Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith:  
+Smooth sensitivity and sampling in private data analysis. STOC 2007: 75-84  
+https://doi.org/10.1145/1250790.1250803  
+> It proposed the concept of local sensitivity, that can be considered to add noise and make the protection. In some cases, the local sensitivity is much smaller than the global sensitivity and to maintain the uility of algorithm. However, the local computation of local sensitivity is difficult. To handle it, it provides the sample and aggregate framework to approximate the local sensitivity.
+
+
 ## Semi-Supervised Learning
 
 Hai Wang, Shao-Bo Wang, Yu-Feng Li:  
@@ -255,12 +272,6 @@ Arik Friedman, Assaf Schuster:
 Data mining with differential privacy. KDD 2010: 493-502  
 https://doi.org/10.1145/1835804.1835868  
 > Differentially private ID3 algorithm. They split the node by exponential mechanism, and relize pruning by 'error based pruning'.
-
-Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith:  
-Smooth sensitivity and sampling in private data analysis. STOC 2007: 75-84  
-https://doi.org/10.1145/1250790.1250803  
-> It proposed the concept of local sensitivity, that can be considered to add noise and make the protection. In some cases, the local sensitivity is much smaller than the global sensitivity and to maintain the uility of algorithm. However, the local computation of local sensitivity is difficult. To handle it, it provides the sample and aggregate framework to approximate the local sensitivity.
-
 
 ---
 
