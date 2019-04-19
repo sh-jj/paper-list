@@ -3,10 +3,11 @@
 ## Unsupervised Learning with differential privacy
 
 
+
 Dan Feldman, Chongyuan Xiang, Ruihao Zhu, Daniela Rus:  
 Coresets for differentially private k-means clustering and applications to privacy in mobile sensor networks. IPSN 2017: 3-15  
 https://ieeexplore.ieee.org/document/7944775  
-> They proposed a new private coreset construction, and run k-means on coreset to get tighter bound than [[Feldman's 2009](https://dl.acm.org/citation.cfm?doid=1536414.1536465)]. The new coreset construction is based on subroutine to find a small ball contains enough points privately. This subroutine is proposed in [Locating a Small Cluster Privately. PODS2016](https://doi.org/10.1145/2902251.2902296)
+> They proposed a new private coreset construction, and run k-means on coreset to get tighter bound than [[Feldman's 2009](https://dl.acm.org/citation.cfm?doid=1536414.1536465)]. The new coreset construction is based on subroutine to find a small ball contains enough points privately. This subroutine is proposed in [[Locating a Small Cluster Privately. PODS2016](https://doi.org/10.1145/2902251.2902296)]
 
 Dan Feldman, Amos Fiat, Haim Kaplan, Kobbi Nissim:  
 Private coresets. STOC 2009: 361-370  
