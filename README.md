@@ -2,10 +2,16 @@
 
 ## Unsupervised Learning with differential privacy
 
+
+Dan Feldman, Chongyuan Xiang, Ruihao Zhu, Daniela Rus:  
+Coresets for differentially private k-means clustering and applications to privacy in mobile sensor networks. IPSN 2017: 3-15  
+https://ieeexplore.ieee.org/document/7944775  
+> They proposed a new private coreset construction, and run k-means on coreset to get tighter bound than [[Feldman's 2009](https://dl.acm.org/citation.cfm?doid=1536414.1536465)]. The new coreset construction is based on subroutine to find a small ball contains enough points privately. This subroutine is proposed in [Locating a Small Cluster Privately. PODS2016](https://doi.org/10.1145/2902251.2902296)
+
 Dan Feldman, Amos Fiat, Haim Kaplan, Kobbi Nissim:  
 Private coresets. STOC 2009: 361-370  
 https://dl.acm.org/citation.cfm?doid=1536414.1536465 
-> Coreset is a notation in computational geometry which be used to approximate the queries on original points. This paper show that coreset with differential privacy can be built by efficient algorithm. Especially, for the queries like k-means or k-median, they provide theoretical bound.  
+> Coreset is a notation in computational geometry which be used to approximate the queries on original points. This paper show that coreset with differential privacy can be built by efficient algorithm. Especially, for the queries like k-means or k-median, they provide theoretical bound.The private coreset construction is based on division and count on original points like hash.  
 > Notice:  
 The non-private coreset is excepted to be built within fewer points, but private coreset may be larger than original set.  
 The private coreset for other purpose are worthy for exploring.
