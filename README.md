@@ -9,6 +9,11 @@ Coresets for differentially private k-means clustering and applications to priva
 https://ieeexplore.ieee.org/document/7944775  
 > They proposed a new private coreset construction, and run k-means on coreset to get tighter bound than [[Feldman's 2009](https://dl.acm.org/citation.cfm?doid=1536414.1536465)]. The new coreset construction is based on subroutine to find a small ball contains enough points privately. This subroutine is proposed in [[Locating a Small Cluster Privately. PODS2016](https://doi.org/10.1145/2902251.2902296)]
 
+Yining Wang, Yu-Xiang Wang, Aarti Singh:  
+Differentially private subspace clustering. NIPS 2015: 1000-1008  
+http://papers.nips.cc/paper/5991-differentially-private-subspace-clustering  
+> It utilities local sensitivity and the assumption which dataset is well-separated in k-subspace clustering to realize the subspace clustering with differential privacy. More specially, it proposed two method that use sample and aggregate framework and exponential mechanism respectively.
+
 Dan Feldman, Amos Fiat, Haim Kaplan, Kobbi Nissim:  
 Private coresets. STOC 2009: 361-370  
 https://dl.acm.org/citation.cfm?doid=1536414.1536465 
@@ -223,12 +228,6 @@ Beyza Ermis, Ali Taylan Cemgil:
 Differentially Private Dropout. CoRR abs/1712.01665 (2017)  
 http://arxiv.org/abs/1712.01665  
 >introduce a noise interpretation to dropout, and prove the noise on gradient satisfies dp  
-
-Yining Wang, Yu-Xiang Wang, Aarti Singh:  
-Differentially private subspace clustering. NIPS 2015: 1000-1008  
-http://papers.nips.cc/paper/5991-differentially-private-subspace-clustering  
-> It utilities local sensitivity and the assumption which dataset is well-separated in k-subspace clustering to realize the subspace clustering with differential privacy. More specially, it proposed two method that use sample and aggregate framework and exponential mechanism respectively.
-
 
 Raef Bassily, Adam D. Smith, Abhradeep Thakurta:  
 Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds. FOCS 2014: 464-473  
