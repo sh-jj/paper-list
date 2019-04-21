@@ -2,6 +2,15 @@
 
 ## Unsupervised Learning with differential privacy
 
+Uri Stemmer, Haim Kaplan:  
+Differentially Private k-Means with Constant Multiplicative Error. NeurIPS 2018: 5436-5446  
+http://papers.nips.cc/paper/7788-differentially-private-k-means-with-constant-multiplicative-error  
+> It combines the private candidate and private coreset to construct a more accurate clustering.
+
+Maria-Florina Balcan, Travis Dick, Yingyu Liang, Wenlong Mou, Hongyang Zhang:  
+Differentially Private Clustering in High-Dimensional Euclidean Spaces. ICML 2017: 322-331  
+http://proceedings.mlr.press/v70/balcan17a.html  
+>It projects data to low-dimension and find candidate set for clustering, and recover it to high-dimension. It ensures that dense areas are more likely to be retained by dividing space privately.
 
 
 Dan Feldman, Chongyuan Xiang, Ruihao Zhu, Daniela Rus:  
