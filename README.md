@@ -1,4 +1,16 @@
 # paper-list
+## Adversarial Machine Learning
+
+Mathias Lécuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Suman Jana:  
+Certified Robustness to Adversarial Examples with Differential Privacy. CoRR abs/1802.03471 (2018)  
+https://arxiv.org/abs/1802.03471  
+> They build the connection between roubstness and differential privacy. Certified robustness is a concept to design defense proactively against adversarial examples. Differentially private mechanism provide robustness on dataset-level. They add a noise layer to neural network which satisifes differential privacy to maintain the robust output when input changes slightly. This design can be used in various neural network.
+
+Aditi Raghunathan, Jacob Steinhardt, Percy Liang:  
+Certified Defenses against Adversarial Examples. ICLR 2018  
+https://openreview.net/forum?id=Bys4ob-Rb  
+> It provide a provable form of robustness against attack from norm-based adversarial example. Through adding adversarial loss, it trains a robust neural network. Specially, the neural network only contains a hidden-layer. For more complex model, this method doesn't work.  
+> This paper point out a direction: we should be proactive against attack by model attacker's behavior and design defense.
 
 ## Unsupervised Learning with differential privacy
 
