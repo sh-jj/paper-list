@@ -304,6 +304,10 @@ https://doi.org/10.1145/1835804.1835868
 
 ## Composition of differential privacy
 
+frank mcsherry:  
+How many secrets do you have?  
+https://github.com/frankmcsherry/blog/blob/master/posts/2017-02-08.md  
+
 
 Martín Abadi, Andy Chu, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang:  
 Deep Learning with Differential Privacy. ACM Conference on Computer and Communications Security 2016: 308-318  
