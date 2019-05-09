@@ -1,4 +1,13 @@
 # paper-list
+
+## Rényi Differential Privacy
+Ilya Mironov:  
+Rényi Differential Privacy. CSF 2017: 263-275  
+https://ieeexplore.ieee.org/document/8049725  
+
+
+
+
 ## Adversarial Machine Learning
 
 Mathias Lécuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Suman Jana:  
