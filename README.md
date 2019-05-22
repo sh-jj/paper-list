@@ -1,12 +1,35 @@
 # paper-list
 
-## Rényi Differential Privacy
+## Privacy loss accouting for differential privacy
+
+Aleksei Triastcyn, Boi Faltings:  
+Improved Accounting for Differentially Private Learning. CoRR abs/1901.09697 (2019)  
+https://arxiv.org/abs/1901.09697  
+> It sums up the moment accountant(Abadi, 2016) as generic privacy accountant.
+> In machine learning, data usually have the same potential distribution. Based on such 'local privacy', it proposes bayesian privacy accountant, which have a tighter bound.
+
 Ilya Mironov:  
 Rényi Differential Privacy. CSF 2017: 263-275  
 https://ieeexplore.ieee.org/document/8049725  
+Based on Rényi Divergence, they proposed a relaxed notion of differential privacy. By Rényi Differential Privacy, the privacy loss accounting of gaussian noise is easier.  
 
+frank mcsherry:  
+How many secrets do you have?  
+https://github.com/frankmcsherry/blog/blob/master/posts/2017-02-08.md  
 
+Martín Abadi, Andy Chu, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang:  
+Deep Learning with Differential Privacy. ACM Conference on Computer and Communications Security 2016: 308-318  
+https://arxiv.org/pdf/1607.00133.pdf  
+>Moments accountant with tighter estimates on the overall privacy loss  
+>Apply the accountant to neural networks  
 
+Cynthia Dwork, Guy N. Rothblum, Salil P. Vadhan:  
+Boosting and Differential Privacy. FOCS 2010: 51-60  
+https://ieeexplore.ieee.org/document/5670947  
+>"Strong Composition"  
+>Boosting for Queries  
+
+---
 
 ## Adversarial Machine Learning
 
@@ -311,26 +334,6 @@ https://doi.org/10.1145/1835804.1835868
 
 ---
 
-## Privacy loss accouting for differential privacy
-
-frank mcsherry:  
-How many secrets do you have?  
-https://github.com/frankmcsherry/blog/blob/master/posts/2017-02-08.md  
-
-
-Martín Abadi, Andy Chu, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang:  
-Deep Learning with Differential Privacy. ACM Conference on Computer and Communications Security 2016: 308-318  
-https://arxiv.org/pdf/1607.00133.pdf  
->Moments accountant with tighter estimates on the overall privacy loss  
->Apply the accountant to neural networks  
-
-Cynthia Dwork, Guy N. Rothblum, Salil P. Vadhan:  
-Boosting and Differential Privacy. FOCS 2010: 51-60  
-https://ieeexplore.ieee.org/document/5670947  
->"Strong Composition"  
->Boosting for Queries  
-
----
 
 ## dp histogram publishing
 
