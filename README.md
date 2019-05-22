@@ -311,7 +311,7 @@ https://doi.org/10.1145/1835804.1835868
 
 ---
 
-## Composition of differential privacy
+## Privacy loss accouting for differential privacy
 
 frank mcsherry:  
 How many secrets do you have?  
