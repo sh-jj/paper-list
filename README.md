@@ -1,5 +1,18 @@
 # paper-list
 
+## robust learning
+
+Nikola Konstantinov, Christoph Lampert:  
+Robust Learning from Untrusted Sources. CoRR abs/1901.10310 (2019)  
+https://arxiv.org/abs/1901.10310  
+> For untrusted data sources with different data quality, it use weighted empirical loss to achieve collaborative learning. To learn the weight of different sources, it introduces a small clean dataset and measure the distance between the clean dataset and local dataset. During the estimation of weight of untrusted sources, the procedure can rely on gradient descent only.
+
+Jiashi Feng, Huan Xu, Shie Mannor:  
+Distributed Robust Learning. CoRR abs/1409.5937 (2014)  
+https://arxiv.org/pdf/1409.5937.pdf  
+> For distributed learning of linear model, choose the geometric median of local learned model.
+
+
 ## Privacy loss accouting for differential privacy
 
 Aleksei Triastcyn, Boi Faltings:  
