@@ -7,6 +7,11 @@ Robust Learning from Untrusted Sources. CoRR abs/1901.10310 (2019)
 https://arxiv.org/abs/1901.10310  
 > For untrusted data sources with different data quality, it use weighted empirical loss to achieve collaborative learning. To learn the weight of different sources, it introduces a small clean dataset and measure the distance between the clean dataset and local dataset. During the estimation of weight of untrusted sources, the procedure can rely on gradient descent only.
 
+Dong Yin, Yudong Chen, Kannan Ramchandran, Peter Bartlett:  
+Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates. ICML 2018: 5636-5645  
+https://arxiv.org/abs/1803.01498  
+> Byzantine failure in distributed learning: means that some worker machines may behave completely arbitrarily and can send any message to the master machine. They provided two method: median-based GD and trimmed-mean-based GD, that achieve optimal statistical rates.
+
 Jiashi Feng, Huan Xu, Shie Mannor:  
 Distributed Robust Learning. CoRR abs/1409.5937 (2014)  
 https://arxiv.org/pdf/1409.5937.pdf  
