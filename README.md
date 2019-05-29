@@ -3,7 +3,7 @@
 ## robust learning
 
 Nikola Konstantinov, Christoph Lampert:  
-Robust Learning from Untrusted Sources. CoRR abs/1901.10310 (2019)  
+Robust Learning from Untrusted Sources. ICML2019  
 https://arxiv.org/abs/1901.10310  
 > For untrusted data sources with different data quality, it use weighted empirical loss to achieve collaborative learning. To learn the weight of different sources, it introduces a small clean dataset and measure the distance between the clean dataset and local dataset. During the estimation of weight of untrusted sources, the procedure can rely on gradient descent only.
 
