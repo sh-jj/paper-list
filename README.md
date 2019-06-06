@@ -110,6 +110,11 @@ https://doi.org/10.1145/1250790.1250803
 
 ## Semi-Supervised Learning
 
+
+Yu-Feng Li, Lan-Zhe Guo, Zhi-Hua Zhou:  
+Towards Safe Weakly Supervised Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), in press.
+> For some candidate weakly supervised learners, it use a min-max framework to optimize the worst-case performance gain against base supervised learner.
+
 Hai Wang, Shao-Bo Wang, Yu-Feng Li:  
 Instance selection method for improving graph-based semi-supervised learning. Frontiers Comput. Sci. 12(4): 725-735 (2018)  
 http://lamda.nju.edu.cn/liyf/paper/FCS18-gsslis.pdf  
