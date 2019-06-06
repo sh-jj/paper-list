@@ -1,5 +1,13 @@
 # paper-list
 
+## Privacy-Preserving Ensemble Learning
+
+Quanming Yao, Xiawei Guo, James T. Kwok, WeiWei Tu, Yuqiang Chen, Wenyuan Dai, Qiang Yang:  
+Differential Private Stack Generalization with an Application to Diabetes Prediction. CoRR abs/1811.09491 (2018)  
+https://arxiv.org/abs/1811.09491  
+> First, Split the data to low-level and high-level, then divide low-level dataset into some disjoint subsets. Generate privacy-preserving logistic regression on the disjoint subsets, then stacking on the high-level dataset.  
+> Motivation? multiparty data?
+
 ## robust learning
 
 Nikola Konstantinov, Christoph Lampert:  
