@@ -108,7 +108,7 @@ https://doi.org/10.1145/1250790.1250803
 > It proposed the concept of local sensitivity, that can be considered to add noise and make the protection. In some cases, the local sensitivity is much smaller than the global sensitivity and to maintain the uility of algorithm. However, the local computation of local sensitivity is difficult. To handle it, it provides the sample and aggregate framework to approximate the local sensitivity.
 
 
-## Semi-Supervised Learning
+## Weakly Supervised Learning
 
 
 Yu-Feng Li, Lan-Zhe Guo, Zhi-Hua Zhou:  
