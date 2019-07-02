@@ -163,6 +163,11 @@ http://lamda.nju.edu.cn/liyf/paper/aaai11-s3vm-us.pdf
 > If we have got prediction from SVM and S3VM, it proposed a method to provide guide which prediction we should choose. It performed hierarchical clustering on unlabeled data, and use the delta of the length of the paths from instance_i to its nearest positive and negative labeled instances to represent the confidence. The higher confidence means lower risk of the unlabled instances. For unlabeled instances with higher confdence, we would predict it by S3VM, otherwises by SVM.  
 > It have not exclude influence on S3VM by unlabeled instances with high risk.
 
+Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain, Yi Liu:  
+SemiBoost: Boosting for Semi-Supervised Learning. IEEE Trans. Pattern Anal. Mach. Intell. 31(11): 2000-2014 (2009)  
+https://ieeexplore.ieee.org/document/4633363  
+> SemiBoost is a framework that leverages unlabeled data to enhance an existing supervised learning algorithm. By using cluster hypothesis and manifold hypothesis in semi-supervised learning, it's a mixture of self-training, graph-based semi-supervised learning and adaboost. In self-training, pseudo-labels are used to enhance the model (manifold hypothesis), and the selected samples with high confidence are usually far away from the decision boundary and have little value. SemiBoost adds the similarity measure from graph-based semi-supervised learning into objective function to enlarge the decision boundary (clustering hypothesis). The overall improvement process of boosting is similar to Adaboost.
+
 ## Federated Learning
 
 Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, Vitaly Shmatikov:  
