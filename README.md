@@ -8,7 +8,7 @@ https://arxiv.org/abs/1811.09491
 > First, Split the data to low-level and high-level, then divide low-level dataset into some disjoint subsets. Generate privacy-preserving logistic regression on the disjoint subsets, then stacking on the high-level dataset.  
 > Motivation? multiparty data?
 
-## robust learning
+## Robust learning
 
 Nikola Konstantinov, Christoph Lampert:  
 Robust Learning from Untrusted Sources. ICML2019  
@@ -167,6 +167,13 @@ Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain, Yi Liu:
 SemiBoost: Boosting for Semi-Supervised Learning. IEEE Trans. Pattern Anal. Mach. Intell. 31(11): 2000-2014 (2009)  
 https://ieeexplore.ieee.org/document/4633363  
 > SemiBoost is a framework that leverages unlabeled data to enhance an existing supervised learning algorithm. By using cluster hypothesis and manifold hypothesis in semi-supervised learning, it's a mixture of self-training, graph-based semi-supervised learning and adaboost. In self-training, pseudo-labels are used to enhance the model (manifold hypothesis), and the selected samples with high confidence are usually far away from the decision boundary and have little value. SemiBoost adds the similarity measure from graph-based semi-supervised learning into objective function to enlarge the decision boundary (clustering hypothesis). The overall improvement process of boosting is similar to Adaboost.
+
+
+Helmut Grabner, Christian Leistner, Horst Bischof:  
+Semi-supervised On-Line Boosting for Robust Tracking. ECCV (1) 2008: 234-247  
+https://link.springer.com/chapter/10.1007%2F978-3-540-88682-2_19  
+> It modified the SemiBoost to a online version, then track the online adaptation.
+
 
 ## Federated Learning
 
