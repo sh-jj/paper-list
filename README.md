@@ -174,6 +174,11 @@ Semi-supervised On-Line Boosting for Robust Tracking. ECCV (1) 2008: 234-247
 https://link.springer.com/chapter/10.1007%2F978-3-540-88682-2_19  
 > It modified the SemiBoost to a online version, then track the online adaptation.
 
+Christian Leistner, Helmut Grabner, Horst Bischof:  
+Semi-supervised boosting using visual similarity learning. CVPR 2008  
+https://www.computer.org/10.1109/CVPR.2008.4587629  
+> Based on SemiBoost, they use a given classifier as prior to measure the similarity between samples.
+
 
 ## Federated Learning
 
