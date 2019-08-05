@@ -311,11 +311,10 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 
 ## Machine Learning with Differential privacy
 
-Xu Long, Jun Sakuma:
-Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6
 
 Jaewoo Lee, Daniel Kifer:  
 Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget. KDD 2018: 1656-1665  
+https://dl.acm.org/citation.cfm?doid=3219819.3220076
 > The motivation is that we need more accurate gradients in later iteration. And this is the first private gradient-based algorithm in which the privacy budget and step size for each iteration is dynamically determined at runtime based on the quality of the noisy statistics obtained for the current iteration.
 
 Jiaqi Zhang, Kai Zheng, Wenlong Mou, Liwei Wang:
@@ -329,6 +328,10 @@ Beyza Ermis, Ali Taylan Cemgil:
 Differentially Private Dropout. CoRR abs/1712.01665 (2017)  
 http://arxiv.org/abs/1712.01665  
 >introduce a noise interpretation to dropout, and prove the noise on gradient satisfies dp  
+
+
+Xu Long, Jun Sakuma:
+Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6
 
 Raef Bassily, Adam D. Smith, Abhradeep Thakurta:  
 Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds. FOCS 2014: 464-473  
