@@ -1,5 +1,14 @@
 # paper-list
 
+
+## GAN
+
+Liyang Xie, Kaixiang Lin, Shu Wang, Fei Wang, Jiayu Zhou:  
+Differentially Private Generative Adversarial Network. CoRR abs/1802.06739 (2018)  
+https://arxiv.org/abs/1802.06739  
+code: https://github.com/illidanlab/dpgan
+
+
 ## Privacy-Preserving Ensemble Learning
 
 Quanming Yao, Xiawei Guo, James T. Kwok, WeiWei Tu, Yuqiang Chen, Wenyuan Dai, Qiang Yang:  
