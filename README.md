@@ -68,6 +68,11 @@ https://ieeexplore.ieee.org/document/5670947
 
 ## Adversarial Machine Learning
 
+Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii:  
+Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning. IEEE Trans. Pattern Anal. Mach. Intell. 41(8): 1979-1993 (2019)  
+https://arxiv.org/abs/1704.03976  
+> They build a virtual adversarial loss induced by pesudo label to utilize unlabeled data.
+
 Mathias Lécuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Suman Jana:  
 Certified Robustness to Adversarial Examples with Differential Privacy. CoRR abs/1802.03471 (2018)  
 https://arxiv.org/abs/1802.03471  
