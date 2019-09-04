@@ -86,6 +86,11 @@ https://openreview.net/forum?id=Bys4ob-Rb
 
 ## Unsupervised Learning with differential privacy
 
+Liyang Xie, Kaixiang Lin, Shu Wang, Fei Wang, Jiayu Zhou:  
+Differentially Private Generative Adversarial Network. CoRR abs/1802.06739 (2018)  
+https://arxiv.org/abs/1802.06739  
+code: https://github.com/illidanlab/dpgan
+
 Uri Stemmer, Haim Kaplan:  
 Differentially Private k-Means with Constant Multiplicative Error. NeurIPS 2018: 5436-5446  
 http://papers.nips.cc/paper/7788-differentially-private-k-means-with-constant-multiplicative-error  
@@ -193,6 +198,10 @@ Semi-supervised boosting using visual similarity learning. CVPR 2008
 https://www.computer.org/10.1109/CVPR.2008.4587629  
 > Based on SemiBoost, they use a given classifier as prior to measure the similarity between samples.
 
+Jing Jiang, ChengXiang Zhai:
+Instance Weighting for Domain Adaptation in NLP. ACL 2007
+https://www.aclweb.org/anthology/P07-1034
+> A framework to weight the instances(label/unlabeled data) in the situation of domain adaption.  
 
 ## Federated Learning
 
