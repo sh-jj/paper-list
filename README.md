@@ -334,6 +334,9 @@ https://ieeexplore.ieee.org/document/6686179?arnumber=6686179&tag=1
 
 ## Machine Learning with Differential privacy
 
+Differentially Private Learning with Small Public Data
+> There are two key factors in differentailly private SGD, privacy budget and gredient clipping threshold at each iteration. Private-Public (PPSGD) is prosposed, which use small public labeled data to estimate these factors at next iteration.
+
 
 Jaewoo Lee, Daniel Kifer:  
 Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget. KDD 2018: 1656-1665  
