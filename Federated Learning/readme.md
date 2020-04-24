@@ -43,4 +43,8 @@ http://jakubkonecny.com/
 Virginia Smith  
 https://www.cs.cmu.edu/~smithv/
 
+## Others
+Ji Liu (Tencent AI Lab)  
+http://jiliu-ml.org/  
+
 
