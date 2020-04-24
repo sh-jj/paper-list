@@ -36,6 +36,10 @@ https://arxiv.org/pdf/1910.00189.pdf
 # Authors
 
 ## Google
+
+H. Brendan McMahan  
+https://research.google/people/author35837/  
+
 Jakub Konečný  
 http://jakubkonecny.com/
 
@@ -44,7 +48,7 @@ Virginia Smith
 https://www.cs.cmu.edu/~smithv/
 
 ## Others
-Ji Liu (Tencent AI Lab)  
+Ji Liu (Kwai Inc.)  
 http://jiliu-ml.org/  
 
 
