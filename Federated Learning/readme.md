@@ -23,6 +23,15 @@ https://arxiv.org/abs/1909.12488
 > Defect: Meta-learning "sounds like" a solution to federated learning. However, how to deal with system challenges is still a problem.
 The contribution of this paper is limited.
 
+## Robustness
+
+Mehryar Mohri, Gary Sivek, Ananda Theertha Suresh:  
+Agnostic Federated Learning. ICML 2019: 4615-4625  
+http://proceedings.mlr.press/v97/mohri19a.html  
+> This paper argues that uniform solution commonly adopted in federated learning may not provide a satisfactory performance, because meaningful data may be concentrated in a small number of nodes (Pareto's law).  
+> Agnostic FL means that the target distribution is agnostic. And this paper fomulates it as min-max game. The target distribution is defined as a convex combination of multiple sources where the model performs the worst.
+
+  
 ## Survey
 
 Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G. L. D'Oliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaïd Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao:  
