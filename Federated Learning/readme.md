@@ -46,6 +46,9 @@ https://arxiv.org/pdf/1910.00189.pdf
 
 ## Google
 
+Mehryar Mohri  
+https://cs.nyu.edu/~mohri/  
+
 H. Brendan McMahan  
 https://research.google/people/author35837/  
 
