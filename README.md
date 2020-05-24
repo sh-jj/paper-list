@@ -1,5 +1,15 @@
 # paper-list
 
+## Learning with Augemented Class
+
+Qing Da, Yang Yu, Zhi-Hua Zhou:
+Learning with Augmented Class by Exploiting Unlabeled Data. AAAI 2014: 1760-1766
+> Based on the idea of large margin, make separator close to the positive labeled data and far from the negative labeled data to handle the augmented class. As a result, predictors tend to classify abnormal unlabeled data as negative.
+
+Semi-Supervised Streaming Learning with Emerging New Labels. AAAI 2020
+> For streaming data, take abnormal unlabeled data as a new class, and use LP to mine unlabeled data.
+
+
 
 ## GAN
 
