@@ -9,6 +9,10 @@ Learning with Augmented Class by Exploiting Unlabeled Data. AAAI 2014: 1760-1766
 Semi-Supervised Streaming Learning with Emerging New Labels. AAAI 2020
 > For streaming data, take abnormal unlabeled data as a new class, and use LP to mine unlabeled data.
 
+Jeremy Nixon, Jeremiah Liu, David Berthelot:  
+Semi-Supervised Class Discovery. CoRR abs/2002.03480 (2020)  
+https://arxiv.org/abs/2002.03480  
+> They use label reconstruction accuracy to measure the effect of new class filter.
 
 
 ## GAN
