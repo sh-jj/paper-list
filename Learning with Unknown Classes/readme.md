@@ -11,8 +11,12 @@ _It's particularly related to outlier detection._
   >  Calculate the degree of anomaly (outlier factor) for each data point according to the density difference around its neighbors.
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676) (ICLR 2018, 175 citations) [[Code](https://github.com/renmengye/few-shot-ssl-public)]
   > Learn the distance density and scope of each class prototype (cluster) to exclude abnormal unlabeled data.
+  
 ## With Emerging Class 
-_In streaming data, novel classes emerge which are not present in the training set_
+_In streaming data, novel classes emerge which are not present in the training set._  
+_It includes new-class detection, known-class classification, and model update. That is different from traditional classification problem or novel class detection (or anomaly detection) because those problems are equivalent to one of the three tasks,
+without addressing classification or model update._
+
 * [Streaming Classification with Emerging New Class by Class Matrix Sketching](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14514/14419) (AAAI 2017)
 * [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
 
