@@ -6,12 +6,16 @@
 _Some unlabeled examples are from classes which are not present in the target class distribution._  
 _It's particularly related to outlier detection._
 
-### Clustering-based 
+### Metric-based 
 * [LOF: Identifying Density-Based Local Outliers](https://dl.acm.org/doi/abs/10.1145/342009.335388) (SIGMOD 2000, 5000+ citations)
   >  Calculate the degree of anomaly (outlier factor) for each data point according to the density difference around its neighbors.
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676) (ICLR 2018, 175 citations) [[Code](https://github.com/renmengye/few-shot-ssl-public)]
-  > Learn the distance density and scope of each class prototype to exclude abnormal unlabeled data.
+  > Learn the distance density and scope of each class prototype (cluster) to exclude abnormal unlabeled data.
+## With Emerging Class 
+_In streaming data, novel classes emerge which are not present in the training set_
+* [Streaming Classification with Emerging New Class by Class Matrix Sketching](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14514/14419) (AAAI 2017)
+* [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
 
 ## With Extended Class
 
-## With Emerging Class 
+
