@@ -29,7 +29,7 @@ without addressing classification or model update._
 ## With Extended Class
 _Unlabeled data contains multiple potential target classes that are not present in the labeled training set._  
 _Compared with 'Learning with Abnormal Class', the instances belonging to potential target classes may not rare._  
-_Compared with 'Learning with Emerging Class', there may be multiple potential classes at the same time, which requires us to distinguish these instances belonging to new classes._
+_Compared with 'Learning with Emerging Class', there always be multiple potential classes at the same time, which requires us to distinguish these instances belonging to new classes._
 
 ### Metric-based
 * [Semi-Supervised Class Discovery](https://arxiv.org/abs/2002.03480).
