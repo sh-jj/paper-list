@@ -1,10 +1,13 @@
-## Surveys
-* [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](http://papers.nips.cc/paper/7585-realistic-evaluation-of-de) (NIPS 2018, 200 citations) [[Code](https://github.com/brain-research/realistic-ssl-evaluation
-)]
+
+
 
 ## With Abnormal Class
 _Some unlabeled examples are from classes which are not present in the target class distribution._  
 _It's particularly related to outlier detection._
+
+### Surveys
+* [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](http://papers.nips.cc/paper/7585-realistic-evaluation-of-de) (NIPS 2018, 200 citations) [[Code](https://github.com/brain-research/realistic-ssl-evaluation
+)]
 
 ### Metric-based 
 * [LOF: Identifying Density-Based Local Outliers](https://dl.acm.org/doi/abs/10.1145/342009.335388) (SIGMOD 2000, 5000+ citations)
@@ -24,5 +27,10 @@ without addressing classification or model update._
 * [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
 
 ## With Extended Class
+_Unlabeled data contains multiple potential target classes that are not present in the labeled training set._  
+_Compared with 'Learning with Abnormal Class', the instances belonging to potential target classes may not rare._  
+_Compared with 'Learning with Emerging Class', there may be multiple potential classes at the same time, which requires us to be able to distinguish these instances belonging to new classes._
 
-
+### Metric-based
+* [Semi-Supervised Class Discovery](https://arxiv.org/abs/2002.03480).
+  > A key to class discovery is to judge if a novel class (and its corresponding examples) we found could be updated into the model. This paper uses Dataset Reconstruction Accuracy, which measures if the detector could recover the label of known-classes instances, to represent the ability of detector.
