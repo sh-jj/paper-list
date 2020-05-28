@@ -17,7 +17,10 @@ _In streaming data, novel classes emerge which are not present in the training s
 _It includes new-class detection, known-class classification, and model update. That is different from traditional classification problem or novel class detection (or anomaly detection) because those problems are equivalent to one of the three tasks,
 without addressing classification or model update._
 
+### Metric-based
 * [Streaming Classification with Emerging New Class by Class Matrix Sketching](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14514/14419) (AAAI 2017)
+
+### Tree-based
 * [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
 
 ## With Extended Class
