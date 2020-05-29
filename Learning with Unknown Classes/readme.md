@@ -25,6 +25,11 @@ _To handle streaming data, we need to pay attention to the computation cost and 
 * [Streaming Classification with Emerging New Class by Class Matrix Sketching](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14514/14419) (AAAI 2017)
 
 ### Tree-based
+
+* [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf) (ICDM 2008, 1100+ citations)
+  > Isolation means 'separating an instance from the rest of the instances'. Anomaly instances generally require less partitions to be isolated (shorter path).  
+  > - The fewer instances of anomalies result in a smaller number of partitions - shorter pathes in a tree structure.  
+  > - Instances with distinguishable attribute-values are more likely to be separated in early partitioning.  
 * [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
 
 ## With Extended Class
