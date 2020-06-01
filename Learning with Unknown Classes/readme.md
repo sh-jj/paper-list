@@ -12,6 +12,10 @@ _It's particularly related to outlier detection._
 ### Metric-based 
 * [LOF: Identifying Density-Based Local Outliers](https://dl.acm.org/doi/abs/10.1145/342009.335388) (SIGMOD 2000, 5000+ citations)
   >  Calculate the degree of anomaly (outlier factor) for each data point according to the density difference around its neighbors.
+  
+* [iCaRL: Incremental Classifier and Representation Learning ](http://openaccess.thecvf.com/content_cvpr_2017/html/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.html) (CVPR 2017, 378 citations)  
+  >  Use deep feature extractor and nearest-prototype discriminator to learning the novel classes during streaming data.
+  
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676) (ICLR 2018, 175 citations) [[Code](https://github.com/renmengye/few-shot-ssl-public)]
   > Learn the distance density and scope of each class prototype (cluster) to exclude abnormal unlabeled data.
   
