@@ -18,6 +18,13 @@ _It's particularly related to outlier detection._
   
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676) (ICLR 2018, 175 citations) [[Code](https://github.com/renmengye/few-shot-ssl-public)]
   > Learn the distance density and scope of each class prototype (cluster) to exclude abnormal unlabeled data.
+### Tree-based
+
+* [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf) (ICDM 2008, 1100+ citations)
+  > Isolation means 'separating an instance from the rest of the instances'. Anomaly instances generally require less partitions to be isolated (shorter path).  
+  > - The fewer instances of anomalies result in a smaller number of partitions - shorter pathes in a tree structure.  
+  > - Instances with distinguishable attribute-values are more likely to be separated in early partitioning.  
+  
   
 ## With Emerging Class 
 _In streaming data, novel classes emerge which are not present in the training set._  
@@ -30,10 +37,6 @@ _To handle streaming data, we need to pay attention to the computation cost and 
 
 ### Tree-based
 
-* [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf) (ICDM 2008, 1100+ citations)
-  > Isolation means 'separating an instance from the rest of the instances'. Anomaly instances generally require less partitions to be isolated (shorter path).  
-  > - The fewer instances of anomalies result in a smaller number of partitions - shorter pathes in a tree structure.  
-  > - Instances with distinguishable attribute-values are more likely to be separated in early partitioning.  
 * [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
 
 ## With Extended Class
