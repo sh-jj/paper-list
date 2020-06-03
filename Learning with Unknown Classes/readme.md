@@ -6,8 +6,10 @@ _Some unlabeled examples are from classes which are not present in the target cl
 _It's particularly related to outlier detection._
 
 ### Surveys
+
 * [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](http://papers.nips.cc/paper/7585-realistic-evaluation-of-de) (NIPS 2018, 200 citations) [[Code](https://github.com/brain-research/realistic-ssl-evaluation
 )]
+* [Deep learning for anomaly detection: A survey](https://arxiv.org/abs/1901.03407) (2018, 137 citations)
 
 ### Metric-based 
 * [LOF: Identifying Density-Based Local Outliers](https://dl.acm.org/doi/abs/10.1145/342009.335388) (SIGMOD 2000, 5000+ citations)
