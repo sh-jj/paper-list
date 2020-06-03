@@ -37,7 +37,7 @@ _It's particularly related to outlier detection._
   
 ## With Emerging Class 
 _In streaming data, novel classes emerge which are not present in the training set._  
-_It includes new-class detection, known-class classification, and model update. That is different from traditional classification problem or novel class detection (or anomaly detection) because those problems are equivalent to one of the three tasks,
+_It includes novel-class detection, known-class classification, and model update. That is different from traditional classification problem or novel class detection (or anomaly detection) because those problems are equivalent to one of the three tasks,
 without addressing classification or model update._  
 _To handle streaming data, we need to pay attention to the computation cost and memory cost of the algorithm._
 
