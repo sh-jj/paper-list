@@ -26,7 +26,14 @@ _It's particularly related to outlier detection._
   > Isolation means 'separating an instance from the rest of the instances'. Anomaly instances generally require less partitions to be isolated (shorter path).  
   > - The fewer instances of anomalies result in a smaller number of partitions - shorter pathes in a tree structure.  
   > - Instances with distinguishable attribute-values are more likely to be separated in early partitioning.  
-  
+
+### Margin-based
+* [Support Vector Method for Novelty Detection](http://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection.pdf) (NIPS 2000, 1261 citations)
+* [Learning with Augmented Class by Exploiting Unlabeled Data](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewPaper/8388) (AAAI 2014, 63 citations)
+
+* [Anomaly Detection using One-Class Neural Networks](https://arxiv.org/abs/1802.06360) (2018, 86 citations) [[Code](https://github.com/raghavchalapathy/oc-nn)]
+
+
   
 ## With Emerging Class 
 _In streaming data, novel classes emerge which are not present in the training set._  
