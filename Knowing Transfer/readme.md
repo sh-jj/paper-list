@@ -19,13 +19,13 @@
    
       * [Algorithms and theory for multiple-source adaptation.](http://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation) (NIPS 2018)  
    
-   * ## Multi-Task Learning
+   * ### Multi-Task Learning
       * [Adaptive Smoothed Online Multi-Task Learning](http://papers.nips.cc/paper/6433-adaptive-smoothed-online-multi-task-learning) (NIPS 2016)  
    
       * [Multi-task Learning with Labeled and Unlabeled Tasks.](https://dl.acm.org/citation.cfm?id=3305971) (ICML 2017)
    
    
-   * ## Few-shot Learning
+   * ### Few-shot Learning
       * [Meta-Learning with Memory-Augmented Neural Networks.](http://proceedings.mlr.press/v48/santoro16.html) (ICML 2016, 576 citations)  
       > They employ a external memory module (like cache) to storage the reperastion of data from previous tasks.Such a design is similar to knn, except that only the reperastion vectors are stored here.
    
