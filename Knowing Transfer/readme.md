@@ -8,9 +8,9 @@
    - [Transfer Learning via Minimizing the PerformanceGap Between Domains](http://papers.nips.cc/paper/9249-transfer-learning-via-minimizing-the-performance-gap-between-domains) (NeurIPS 2019)
    
    ## Domain Adaptation
-   - [Domain Adaptation with Multiple Sources.] (http://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources) (NIPS 2009, 294 citations)  
+   - [Domain Adaptation with Multiple Sources.](http://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources) (NIPS 2009, 294 citations)  
    
-   - [Algorithms and theory for multiple-source adaptation.] (http://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation) (NIPS 2018)  
+   - [Algorithms and theory for multiple-source adaptation.](http://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation) (NIPS 2018)  
    
    
    
