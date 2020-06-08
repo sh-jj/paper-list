@@ -37,7 +37,10 @@
    
 ## Grey-Box
    * ### Model Transfer
-      * [Learning What and Where to Transfer.]()
+      * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) (2014, 1000+ citations)
+      
+      * [Learning What and Where to Transfer.](https://arxiv.org/abs/1905.05901) (ICML 2019)
+      
    * ### Federated Learning
       * [Communication-Efficient Learning of Deep Networks from Decentralized Data.](http://proceedings.mlr.press/v54/mcmahan17a.html) (AISTATS 2017, 866 citations)
    
@@ -63,13 +66,18 @@
 ## Black-Box
   * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)
   
+  * [Deep Learning for Fixed Model Reuse](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14586) (AAAI 2017)
+  
+  * [Modal Consistency Based Pre-trained Multi-Model Reuse](https://www.ijcai.org/proceedings/2017/0459.pdf) (IJCAI 2017)
+  
   * [Learning New Tricks From Old Dogs: Multi-Source Transfer Learning From Pre-Trained Networks.](http://papers.nips.cc/paper/8688-learning-new-tricks-from-old-dogs-multi-source-transfer-learning-from-pre-trained-networks) (NeurIPS 2019)
   > This paper has tried to mine the ability of multi-source during transfer. Sepecially, they propose maximal correlation weighting to generate an ensemble module to utilize the internal output from multiple pre-trained networks.
   > In my opinion, it seems like the custom stacking where the second model designed by maximize correlation.  
   > So, what kind of ensemble module is reasonable? robust? efficient? ...
   
   * [Rapid Performance Gain through Active Model Reuse.](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf) (IJCAI 2019)
-
+  
+  * [Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin](http://proceedings.mlr.press/v97/wu19c.html) (ICML 2019)
 
 
 ## Datasets
