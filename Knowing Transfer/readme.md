@@ -1,13 +1,14 @@
 
-# White-Box
-   * ## Transfer Learning
+# Papers
+## White-Box
+   * ### Transfer Learning
       * [Boosting for Transfer Learning.](https://dl.acm.org/doi/abs/10.1145/1273496.1273521) (ICML 2017, 1341 citations)  
    
       * [Robust Learning from Untrusted Sources.](https://arxiv.org/abs/1901.10310) (ICML 2019)  
    
       * [Transfer Learning via Minimizing the PerformanceGap Between Domains](http://papers.nips.cc/paper/9249-transfer-learning-via-minimizing-the-performance-gap-between-domains) (NeurIPS 2019)
    
-   * ## Domain Adaptation
+   * ### Domain Adaptation
       * [Instance Weighting for Domain Adaptation in NLP.](https://www.aclweb.org/anthology/P07-1034.pdf) (ACL 2007, 732 citations)
    
       * [Covariate Shift Adaptation by Importance Weighted Cross Validation.](http://www.jmlr.org/papers/v8/sugiyama07a.html) (JMLR 2007, 550 citations)
@@ -34,10 +35,10 @@
       * [Prototypical Networks for Few-shot Learning.](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning) (NIPS 2017, 1082 citations)  
       > "Prototype", a way imitating humans to understand the world. They build a meta-learner mapping instances to a low-dimensional space, and the prototypes of various categories are obtained by clustering. For target task in few-shot learning, the prototypes are built by meta-learner and answer the queries through neighbor-based method.  
    
-# Grey-Box
-   * ## Model Transfer
+## Grey-Box
+   * ### Model Transfer
    
-   * ## Federated Learning
+   * ### Federated Learning
       * [Communication-Efficient Learning of Deep Networks from Decentralized Data.](http://proceedings.mlr.press/v54/mcmahan17a.html) (AISTATS 2017, 866 citations)
    
       * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning) (NIPS 2017, 240 citations)
@@ -51,7 +52,7 @@
    
       * [Federated Adversarial Domain Adaptation.](https://arxiv.org/abs/1911.02054) (ICLR 2020)
    
-   * ## Distributed Learning
+   * ### Distributed Learning
       * [Distributed Robust Learning.](https://arxiv.org/pdf/1409.5937.pdf) (2014)  
       > choose the geometric median of local learned model.  
    
@@ -59,7 +60,7 @@
       > Byzantine failure in distributed learning: means that some worker machines may behave completely arbitrarily and can send any message to the master machine. They provided two method: median-based GD and trimmed-mean-based GD, that achieve optimal statistical rates.
       * [Fully Decentralized Joint Learning of Personalized Models and Collaboration Graphs.](https://hal.inria.fr/hal-02166433/) (2019)
 
-# Black-Box
+## Black-Box
   * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)
   
   * [Learning New Tricks From Old Dogs: Multi-Source Transfer Learning From Pre-Trained Networks.](http://papers.nips.cc/paper/8688-learning-new-tricks-from-old-dogs-multi-source-transfer-learning-from-pre-trained-networks) (NeurIPS 2019)
@@ -71,3 +72,9 @@
 
 
 
+## Datasets
+
+  * Multitask Dataset of Product Reviews: http://cvml.ist.ac.at/productreviews/
+  
+  * Animals with Attributes 2: https://cvml.ist.ac.at/AwA2/
+  
