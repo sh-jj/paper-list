@@ -79,7 +79,8 @@
   
   * [Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin](http://proceedings.mlr.press/v97/wu19c.html) (ICML 2019)
 
-
+  * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)
+  
 ## Datasets
 
   * Multitask Dataset of Product Reviews: http://cvml.ist.ac.at/productreviews/
