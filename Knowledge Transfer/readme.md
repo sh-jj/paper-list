@@ -18,6 +18,8 @@
       * [Domain Adaptation with Multiple Sources.](http://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources) (NIPS 2009, 294 citations)  
    
       * [Algorithms and theory for multiple-source adaptation.](http://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation) (NIPS 2018)  
+      
+      * [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/html/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.html) (CVPR 2018, 282 citations)
    
    * ### Multi-Task Learning
       * [Adaptive Smoothed Online Multi-Task Learning](http://papers.nips.cc/paper/6433-adaptive-smoothed-online-multi-task-learning) (NIPS 2016)  
