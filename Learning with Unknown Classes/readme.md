@@ -13,6 +13,7 @@ _It's particularly related to outlier detection._
 
 * [Recent Advances in Open Set Recognition: A Survey](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/9040673/&hl=zh-CN&sa=T&oi=gsb&ct=res&cd=0&d=8435173469278427577&ei=17voXsjmKsi8ywSU_6-oBA&scisig=AAGBfm033NeP8wlKrYIHU_XlEO82Ne0gtQ) (TPAMI 2020)
 
+
 ### Metric-based 
 * [LOF: Identifying Density-Based Local Outliers](https://dl.acm.org/doi/abs/10.1145/342009.335388) (SIGMOD 2000, 5000+ citations)
   >  Calculate the degree of anomaly (outlier factor) for each data point according to the density difference around its neighbors.
@@ -33,6 +34,7 @@ _It's particularly related to outlier detection._
 * [Learning with Augmented Class by Exploiting Unlabeled Data](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewPaper/8388) (AAAI 2014)
 * [High-dimensional and large-scale anomaly detection using a linear one-class SVM with deep learning](https://www.sciencedirect.com/science/article/pii/S0031320316300267) (PR 2016, 379 citations)
 * [Anomaly Detection using One-Class Neural Networks](https://arxiv.org/abs/1802.06360) (2018, 86 citations) [[Code](https://github.com/raghavchalapathy/oc-nn)]
+* [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.html) (ICCV 2019)
 
 
   
