@@ -43,6 +43,8 @@
       
       * [Learning What and Where to Transfer.](https://arxiv.org/abs/1905.05901) (ICML 2019)
       
+      * [Handling Concept Drift via Model Reuse](https://link.springer.com/article/10.1007/s10994-019-05835-w) (ML 2020)
+      
    * ### Federated Learning
       * [Communication-Efficient Learning of Deep Networks from Decentralized Data.](http://proceedings.mlr.press/v54/mcmahan17a.html) (AISTATS 2017, 866 citations)
    
