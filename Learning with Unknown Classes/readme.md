@@ -36,6 +36,12 @@ _It's particularly related to outlier detection._
 * [Anomaly Detection using One-Class Neural Networks](https://arxiv.org/abs/1802.06360) (2018, 86 citations) [[Code](https://github.com/raghavchalapathy/oc-nn)]
 * [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.html) (ICCV 2019)
 
+### Confidence-based
+
+* [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136) (ICLR 2017, 300+ citations) [[code](https://github.com/hendrycks/error-detection)]
+
+* [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) (ICLR 2018, 200+ citations) [[code](https://github.com/facebookresearch/odin)]
+
 
   
 ## With Emerging Class 
