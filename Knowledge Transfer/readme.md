@@ -91,3 +91,6 @@
   
   * Animals with Attributes 2: https://cvml.ist.ac.at/AwA2/
   
+  * ECMLPKDD2006 Spam Classification http://ecmlpkdd2006.org/challenge.html
+  
+  
