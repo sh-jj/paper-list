@@ -50,7 +50,7 @@
       
    * ### Life-Long Learning
       * [Expert Gate: Lifelong Learning with a Network of Experts](https://arxiv.org/pdf/1611.06194.pdf) (CVPR 2017)
-        > maintain a model pool during lifelong learning
+        > maintain a model pool during lifelong learning  
         > use autoencoder as model sperification and estimate task relatedness through reconstruction loss.
       
    * ### Federated Learning
