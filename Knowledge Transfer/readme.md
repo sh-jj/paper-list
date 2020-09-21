@@ -88,6 +88,8 @@
 
   * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)
   
+  * [Model Reuse with Reduced Kernel Mean Embedding Specification.](https://arxiv.org/abs/2001.07135)
+  
 ## Datasets
 
   * Multitask Dataset of Product Reviews: http://cvml.ist.ac.at/productreviews/
