@@ -48,6 +48,10 @@
       
       * [Handling Concept Drift via Model Reuse](https://link.springer.com/article/10.1007/s10994-019-05835-w) (ML 2020)
       
+   * ### Life-Long Learning
+      * [Expert Gate: Lifelong Learning with a Network of Experts](https://arxiv.org/pdf/1611.06194.pdf)
+        > use autoencoder as model sperification and estimate task relatedness through reconstruction loss.
+      
    * ### Federated Learning
       * [Communication-Efficient Learning of Deep Networks from Decentralized Data.](http://proceedings.mlr.press/v54/mcmahan17a.html) (AISTATS 2017, 866 citations)
    
@@ -89,6 +93,7 @@
   * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)
   
   * [Model Reuse with Reduced Kernel Mean Embedding Specification.](https://arxiv.org/abs/2001.07135)
+    > use reduced kernel mean as model sperification
   
 ## Datasets
 
