@@ -1,6 +1,6 @@
 
 # Papers
-## White-Box
+## White-Box (data level)
    * ### Transfer Learning
       * [Boosting for Transfer Learning.](https://dl.acm.org/doi/abs/10.1145/1273496.1273521) (ICML 2017, 1341 citations)  
    
@@ -40,7 +40,7 @@
       * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a.html) (ICML 2017, 2000+ citations)
 
    
-## Grey-Box
+## Grey-Box (model level)
    * ### Model Transfer
       * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) (2014, 1000+ citations)
       
@@ -75,9 +75,15 @@
       > Byzantine failure in distributed learning: means that some worker machines may behave completely arbitrarily and can send any message to the master machine. They provided two method: median-based GD and trimmed-mean-based GD, that achieve optimal statistical rates.
       * [Fully Decentralized Joint Learning of Personalized Models and Collaboration Graphs.](https://hal.inria.fr/hal-02166433/) (2019)
 
-## Black-Box
-  * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)
+## Black-Box (reperenention level)
+  * ### knowledge distillation
+     * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)  
+     
+     * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)  
   
+     * [Contrastive representation distillation.](https://arxiv.org/abs/1910.10699) (ICLR 2020)  
+  
+  * ### decisions-based
   * [Deep Learning for Fixed Model Reuse](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14586) (AAAI 2017)
   
   * [Modal Consistency Based Pre-trained Multi-Model Reuse](https://www.ijcai.org/proceedings/2017/0459.pdf) (IJCAI 2017)
@@ -91,10 +97,9 @@
   
   * [Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin](http://proceedings.mlr.press/v97/wu19c.html) (ICML 2019)
 
-  * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)
-  
   * [Model Reuse with Reduced Kernel Mean Embedding Specification.](https://arxiv.org/abs/2001.07135)
     > use reduced kernel mean as model sperification
+    
   
 ## Datasets
 
