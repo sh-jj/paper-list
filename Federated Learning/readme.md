@@ -23,13 +23,17 @@ https://arxiv.org/abs/1909.12488
 > Defect: Meta-learning "sounds like" a solution to federated learning. However, how to deal with system challenges is still a problem.
 The contribution of this paper is limited.
 
-## Robustness
+## Aggregation
 
 Mehryar Mohri, Gary Sivek, Ananda Theertha Suresh:  
 Agnostic Federated Learning. ICML 2019: 4615-4625  
 http://proceedings.mlr.press/v97/mohri19a.html  
 > This paper argues that uniform solution commonly adopted in federated learning may not provide a satisfactory performance, because meaningful data may be concentrated in a small number of nodes (Pareto's law).  
 > Agnostic FL means that the target distribution is agnostic. And this paper fomulates it as min-max game. The target distribution is defined as a convex combination of multiple sources where the model performs the worst.
+
+[Bayesian Nonparametric Federated Learning of Neural Networks.](https://arxiv.org/abs/1905.12022) (ICML 2019)
+   
+[Federated Learning with Matched Averaging.](https://arxiv.org/abs/2002.06440) (ICLR 2020)
 
 ## System Robustness
 Dong Yin, Yudong Chen, Kannan Ramchandran, Peter Bartlett:  
@@ -41,6 +45,9 @@ Jiashi Feng, Huan Xu, Shie Mannor:
 Distributed Robust Learning. CoRR abs/1409.5937 (2014)  
 https://arxiv.org/pdf/1409.5937.pdf  
 > For distributed learning of linear model, choose the geometric median of local learned model.
+
+## Transfer
+[Federated Adversarial Domain Adaptation.](https://arxiv.org/abs/1911.02054) (ICLR 2020)
 
 ## Survey
 
