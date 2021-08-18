@@ -222,4 +222,15 @@
 
     * [Cynthia Dwork, Aaron Roth:  The Algorithmic Foundations of Differential Privacy. Foundations and Trends in Theoretical Computer Science 9(3-4): 211-407 (2014)](http://nowpublishers.com/article/DownloadSummary/TCS-042)
 
-    
+* ## 10. Others, Applications
+    * [Differentially Private Semi-Supervised Learning With Known Class Priors](https://ieeexplore.ieee.org/document/8622071). (BigData 2018)
+      > It presents a framework for semi-supervised learning, assuming known class priors, and provides the theoretical guarantee on the optimal risk. Under this setting, they give the differentially private learning on the framework. However, they make mistakes on addition of noise, which have been corrected in [[Kamalika Chaudhuri 2011](https://dl.acm.org/citation.cfm?id=2021036)].
+    * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://openreview.net/forum?id=HkwoSDP). (ICLR 2017)
+       > The paper presents a general teacher-student approach for differentially-private learning in which the student learns to predict a noise vote among a set of teachers. The noise allows the student to be differentially private, whilst maintaining good classification accuracies on MNIST and SVHN.  
+       > It divides the dataset to some disjoint subsets and provide client-level dp, then use semi-supervised learning to utlize non-private unlabeled data and obtain a student model. Bscause aggregation is much easier to add noise than learning. Take notice of that this framework don't limit the teacher models and student model, which is different from ([Jihun Hamm ICML 2016](http://proceedings.mlr.press/v48/hamm16.html)).
+    * [Differentially Private Semi-Supervised Classification](https://ieeexplore.ieee.org/document/7947001) (SMARTCOMP 2017)
+       > For a specific SSL(tranductive k-NN learning), it considers privacy of labeled instances and proivdes differentially private protection.  
+       > However, it ignores privacy of unlabeled instances and the setting(k-mutual neighbor) limits the effect of unlabeled instances.
+    * [A Semi-Supervised Learning Approach to Differential Privacy](https://ieeexplore.ieee.org/document/6754008) (ICDM Workshops 2013)
+       > It expends dp Random Decision Tree to utlize unlabeled data, but it only consider the privacy of labeled data. The unlabeled data is considered to be public and non-private. In general, it utlize unlabeled data as auxiliary information to boost performance of dp mechanism.
+
