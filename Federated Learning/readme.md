@@ -31,7 +31,17 @@ http://proceedings.mlr.press/v97/mohri19a.html
 > This paper argues that uniform solution commonly adopted in federated learning may not provide a satisfactory performance, because meaningful data may be concentrated in a small number of nodes (Pareto's law).  
 > Agnostic FL means that the target distribution is agnostic. And this paper fomulates it as min-max game. The target distribution is defined as a convex combination of multiple sources where the model performs the worst.
 
-  
+## System Robustness
+Dong Yin, Yudong Chen, Kannan Ramchandran, Peter Bartlett:  
+Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates. ICML 2018: 5636-5645  
+https://arxiv.org/abs/1803.01498  
+> Byzantine failure in distributed learning: means that some worker machines may behave completely arbitrarily and can send any message to the master machine. They provided two method: median-based GD and trimmed-mean-based GD, that achieve optimal statistical rates.
+
+Jiashi Feng, Huan Xu, Shie Mannor:  
+Distributed Robust Learning. CoRR abs/1409.5937 (2014)  
+https://arxiv.org/pdf/1409.5937.pdf  
+> For distributed learning of linear model, choose the geometric median of local learned model.
+
 ## Survey
 
 Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G. L. D'Oliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaïd Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao:  
