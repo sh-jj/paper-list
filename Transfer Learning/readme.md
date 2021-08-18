@@ -114,6 +114,11 @@
     > Utilize domain-spefic features to adapt unlabled data gradually via Curriculum Learing.
     >
 
+* ## Heterogeneous Features
+  * [Translated Learning: Transfer Learning across Different Feature Spaces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.145.5832&rep=rep1&type=pdf) (NIPS 2008)
+  * (Heterogeneous Transfer Learning for Image Classification)(https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewPaper/3671) (AAAI 2011)
+
+
 ## Incremental Domain Adaptation
 ##  Partial Domain Adaptation
 
