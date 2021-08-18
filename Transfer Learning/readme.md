@@ -1,7 +1,21 @@
+# Model Reuse
+
+* ## Latent Domains
+  * [Towards Robust Model Reuse in the Presence of Latent Domains](https://www.ijcai.org/proceedings/2021/0407.pdf)
+* ## Heterogeneous Features
+  * [Rectify Heterogeneous Models with Semantic Mapping](http://proceedings.mlr.press/v80/ye2018c/ye2018c.pdf) (ICML 2018)
+  * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
+
+# Multi-Task Learning
+
+* ## Heterogeneous Multi-Task Learning
+    * [Multi-Task Learning in Heterogeneous Feature Spaces](https://ojs.aaai.org/index.php/AAAI/article/view/7909/7768&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=12997287504521233539&ei=htMcYe_DFIr2yATNnK7YAg&scisig=AAGBfm24A0r9yL-AN-gNsiMnBy6vQiRWEQ) (AAAI 2011)
+
 # Domain Adaptation
 
 * ## Custom Domain Adaptation
-
+  * 🌟[Domain Adaptation: Learning Bounds and Algorithms](https://arxiv.org/pdf/0902.3430.pdf)
+  * 
   * [Learning Transferable Features with Deep Adaptation Networks.](http://proceedings.mlr.press/v37/long15.html) (ICML 2015)
 
     > They use MMD to measure the distribution discrepancy between source features and target features. It promoted the applications of deep learning on transfer learning.
@@ -56,14 +70,8 @@
     > Utilize domain-spefic features to adapt unlabled data gradually via Curriculum Learing.
     >
 
-##  Partial Domain Adaptation
-
 ## Incremental Domain Adaptation
-
-* ## Heterogeneous Transfer Learning
-  * []()
-  * 
-  * [Multi-Task Learning in Heterogeneous Feature Spaces](https://ojs.aaai.org/index.php/AAAI/article/view/7909/7768&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=12997287504521233539&ei=htMcYe_DFIr2yATNnK7YAg&scisig=AAGBfm24A0r9yL-AN-gNsiMnBy6vQiRWEQ) (AAAI 2011)
+##  Partial Domain Adaptation
 
 ## Others
 
