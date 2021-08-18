@@ -1,32 +1,14 @@
 
-## Weakly Supervised Learning
+# Weakly Supervised Learning
 
+## Semi-Supervised Learning
 
-Yu-Feng Li, Lan-Zhe Guo, Zhi-Hua Zhou:  
-Towards Safe Weakly Supervised Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), in press.
+Towards Safe Weakly Supervised Learning. (TPAMI 2021)
 > For some candidate weakly supervised learners, it use a min-max framework to optimize the worst-case performance gain against base supervised learner.
 
-Hai Wang, Shao-Bo Wang, Yu-Feng Li:  
-Instance selection method for improving graph-based semi-supervised learning. Frontiers Comput. Sci. 12(4): 725-735 (2018)  
+Instance selection method for improving graph-based semi-supervised learning.  (FCS 2018)  
 http://lamda.nju.edu.cn/liyf/paper/FCS18-gsslis.pdf  
 > It use confidence to aggregate prediction by SSL based on different kinds of graph and decrease the risk of performance degeneration.
-
-Anh T. Pham, Jing Xi:  
-Differentially Private Semi-Supervised Learning With Known Class Priors. BigData 2018: 801-810  
-https://ieeexplore.ieee.org/document/8622071
-> It presents a framework for semi-supervised learning, assuming known class priors, and provides the theoretical guarantee on the optimal risk. Under this setting, they give the differentially private learning on the framework. However, they make mistakes on addition of noise, which have been corrected in [[Kamalika Chaudhuri 2011](https://dl.acm.org/citation.cfm?id=2021036)].
-
-Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian J. Goodfellow, Kunal Talwar:  
-Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017  
-https://openreview.net/forum?id=HkwoSDP  
-> The paper presents a general teacher-student approach for differentially-private learning in which the student learns to predict a noise vote among a set of teachers. The noise allows the student to be differentially private, whilst maintaining good classification accuracies on MNIST and SVHN.  
-> It divides the dataset to some disjoint subsets and provide client-level dp, then use semi-supervised learning to utlize non-private unlabeled data and obtain a student model. Bscause aggregation is much easier to add noise than learning. Take notice of that this framework don't limit the teacher models and student model, which is different from ([Jihun Hamm ICML 2016](http://proceedings.mlr.press/v48/hamm16.html)).
-
-Xu Long, Jun Sakuma:  
-Differentially Private Semi-Supervised Classification. SMARTCOMP 2017: 1-6  
-https://ieeexplore.ieee.org/document/7947001  
-> For a specific SSL(tranductive k-NN learning), it considers privacy of labeled instances and proivdes differentially private protection.  
-> However, it ignores privacy of unlabeled instances and the setting(k-mutual neighbor) limits the effect of unlabeled instances.
 
 Yu-Feng Li, Han-Wen Zha, Zhi-Hua Zhou:  
 Learning Safe Prediction for Semi-Supervised Regression. AAAI 2017: 2217-2223  
@@ -42,11 +24,6 @@ Yu-Feng Li, Zhi-Hua Zhou:
 Towards Making Unlabeled Data Never Hurt. IEEE Trans. Pattern Anal. Mach. Intell. 37(1): 175-188 (2015)  
 http://lamda.nju.edu.cn/liyf/paper/TPAMI15-S4VM.pdf  
 > There are more than a large margin in semi-supervised data, which are diverse, choose one of them directly may lead to performance degeneration. It use S3VMs to generate a pool of separators, and maximize the worst-case improvement over inductive SVM, the method proposed are called S4VM.
-
-Geetha Jagannathan, Claire Monteleoni, Krishnan Pillaipakkamnatt:  
-A Semi-Supervised Learning Approach to Differential Privacy. ICDM Workshops 2013: 841-848  
-https://ieeexplore.ieee.org/document/6754008  
-> It expends dp Random Decision Tree to utlize unlabeled data, but it only consider the privacy of labeled data. The unlabeled data is considered to be public and non-private. In general, it utlize unlabeled data as auxiliary information to boost performance of dp mechanism.
 
 Yu-Feng Li, Zhi-Hua Zhou:  
 Improving Semi-Supervised Support Vector Machines Through Unlabeled Instances Selection. AAAI 2011  
@@ -69,9 +46,4 @@ Christian Leistner, Helmut Grabner, Horst Bischof:
 Semi-supervised boosting using visual similarity learning. CVPR 2008  
 https://www.computer.org/10.1109/CVPR.2008.4587629  
 > Based on SemiBoost, they use a given classifier as prior to measure the similarity between samples.
-
-Jing Jiang, ChengXiang Zhai:
-Instance Weighting for Domain Adaptation in NLP. ACL 2007
-https://www.aclweb.org/anthology/P07-1034
-> A framework to weight the instances(label/unlabeled data) in the situation of domain adaption.  
 
