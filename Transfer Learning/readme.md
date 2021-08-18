@@ -60,6 +60,11 @@
 
 ## Incremental Domain Adaptation
 
+* ## Heterogeneous Transfer Learning
+  * []()
+  * 
+  * [Multi-Task Learning in Heterogeneous Feature Spaces](https://ojs.aaai.org/index.php/AAAI/article/view/7909/7768&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=12997287504521233539&ei=htMcYe_DFIr2yATNnK7YAg&scisig=AAGBfm24A0r9yL-AN-gNsiMnBy6vQiRWEQ) (AAAI 2011)
+
 ## Others
 
 # Domain Generalization
