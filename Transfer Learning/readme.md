@@ -7,8 +7,11 @@
   * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
 
 # Multi-Task Learning
-
-* ## Heterogeneous Multi-Task Learning
+* ## Homogeneous
+    * [Robust Learning from Untrusted Sources](https://arxiv.org/abs/1901.10310)  (ICML2019)
+      > For untrusted data sources with different data quality, it use weighted empirical loss to achieve collaborative learning. To learn the weight of different sources, it introduces a small clean dataset and measure the distance between the clean dataset and local dataset. During the estimation of weight of untrusted sources, the procedure can rely on gradient descent only.
+      
+* ## Heterogeneous Features
     * [Multi-Task Learning in Heterogeneous Feature Spaces](https://ojs.aaai.org/index.php/AAAI/article/view/7909/7768&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=12997287504521233539&ei=htMcYe_DFIr2yATNnK7YAg&scisig=AAGBfm24A0r9yL-AN-gNsiMnBy6vQiRWEQ) (AAAI 2011)
 
 # Domain Adaptation
