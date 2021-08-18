@@ -22,7 +22,7 @@
      > This paper has tried to mine the ability of multi-source during transfer. Sepecially, they propose maximal correlation weighting to generate an ensemble module to utilize the internal output from multiple pre-trained networks.
      > In my opinion, it seems like the custom stacking where the second model designed by maximize correlation.  
      > So, what kind of ensemble module is reasonable? robust? efficient? ...
-  * 
+  * [Distilling Cross-Task Knowledge via Relationship Matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf) (CVPR 2020)
 
 * ## Distillation 
   * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)     
@@ -53,7 +53,10 @@
   * [Prototypical Networks for Few-shot Learning.](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning) (NIPS 2017)  
       > "Prototype", a way imitating humans to understand the world. They build a meta-learner mapping instances to a low-dimensional space, and the prototypes of various categories are obtained by clustering. For target task in few-shot learning, the prototypes are built by meta-learner and answer the queries through neighbor-based method. 
   * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a.html) (ICML 2017)
-
+* ## Semi-Supervised Few-Shot Learning
+  * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://openreview.net/forum?id=HJcSzz-CZ) (ICLR 2018)
+    > This paper extends the prototypical network to semi-supervised scheme. Mask clusters are employed to handle the unexpected instances which doesn't belong to the target task. Such a way of mining unlabeled data is rough and have space for improvement. However, the key problem in this situation is that there is a long way from existing few-shot learning method to practice.
+  * [Task Cooperation for Semi-Supervised Few-Shot Learning](https://www.aaai.org/AAAI21Papers/AAAI-5922.YeHJ.pdf) (AAAI 2021)
 
 # Domain Adaptation
 
