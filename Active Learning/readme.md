@@ -8,7 +8,7 @@
 |  Paper   | Conf./Jour.  | Code | Abstract |
 |  ----  | ----  | --- | --- |
 | [Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment](https://www.aaai.org/AAAI21Papers/AAAI-286.FuM.pdf)  | AAAI'21 |[Github](https://github.com/fumengying19/AAAI21-ADS/tree/code) | Align the distribution between labeled data and unlabeled data through adversial learning. |
-
+|[Active Learning for Convolutional Neural Networks: A Core-Set Approach](https://arxiv.org/abs/1708.00489)| ICLR'18||
 ## Active Transfer Learning
 
 |  Paper   | Conf./Jour.  | Code | Keywords|
