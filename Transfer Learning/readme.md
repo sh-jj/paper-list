@@ -3,15 +3,16 @@
 * ## Homogeneous
   * [Modal Consistency Based Pre-trained Multi-Model Reuse](https://www.ijcai.org/proceedings/2017/0459.pdf) (IJCAI 2017)
   * [Handling Concept Drift via Model Reuse](https://link.springer.com/article/10.1007/s10994-019-05835-w) (ML 2020)
-  * [Towards Robust Model Reuse in the Presence of Latent Domains](https://www.ijcai.org/proceedings/2021/0407.pdf) (IJCAI 2021)
+  * [Boosting-Based Reliable Model Reuse](http://proceedings.mlr.press/v129/ding20a/ding20a.pdf) (ACML 2020)
   * [Model Reuse with Reduced Kernel Mean Embedding Specification.](https://arxiv.org/abs/2001.07135) (TKDE 2021)
     > use reduced kernel mean as model sperification
   * [Towards Enabling Learnware to Handle Unseen Jobs](http://129.211.169.156/publication/aaai21_unseenJob.pdf) (AAAI 2021)
+  * [Towards Robust Model Reuse in the Presence of Latent Domains](https://www.ijcai.org/proceedings/2021/0407.pdf) (IJCAI 2021)
   
 * ## Heterogeneous Features
-  * [Rectify Heterogeneous Models with Semantic Mapping](http://proceedings.mlr.press/v80/ye2018c/ye2018c.pdf) (ICML 2018)
   * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
-  
+  * [Rectify Heterogeneous Models with Semantic Mapping](http://proceedings.mlr.press/v80/ye2018c/ye2018c.pdf) (ICML 2018)
+  * [Learning with Feature and Distribution Evolvable Streams](http://proceedings.mlr.press/v119/zhang20ad/zhang20ad.pdf) (ICML 2020)
   
 * ## Heterogeneous Labels
   * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) (2014)    
