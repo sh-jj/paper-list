@@ -14,6 +14,9 @@
 
 * [AdaRNN: Adaptive Learning and Forecasting for Time Series](https://arxiv.org/pdf/2108.04443.pdf) (CIKM'21, [Code](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn))
 
+### Correlated Series 
+* [Correlated Time Series Forecasting using Multi-Task Deep Neural Networks](http://people.cs.aau.dk/~byang/papers/CIKM2018-AECRNN.pdf) (CIKM'18)
+* [EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting] (ICDE'21)
 
 ### Similarity Search
 * [Deep Learning Embeddings for Data Series Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467317) (KDD'21)
