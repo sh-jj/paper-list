@@ -22,4 +22,7 @@
 * [Deep Learning Embeddings for Data Series Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467317) (KDD'21)
 * 
 
+## Tutorial
+[Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
+
 ## Codes
