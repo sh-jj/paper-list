@@ -22,3 +22,10 @@
 | [Cost-Effective Training of Deep CNNs with Active Model Adaptation](https://dl.acm.org/doi/pdf/10.1145/3219819.3220026)| KDD'18 | |
 | [Active Adversarial Domain Adaptation](https://openaccess.thecvf.com/content_WACV_2020/html/Su_Active_Adversarial_Domain_Adaptation_WACV_2020_paper.html) | WACV'20|||
 | [Discrepancy-Based Active Learning for Domain Adaptation](https://arxiv.org/pdf/2103.03757.pdf)| under NeurIPS'21 review| | Theory|
+
+## Active Semi-supervised Learning
+
+
+|  Paper   | Conf./Jour.  | Code | Keywords|
+|  ----  | ----  | --- | --- |
+| [Data-Centric Semi-Supervised Learning](https://arxiv.org/pdf/2110.03006.pdf)  | 2021 |  | |
