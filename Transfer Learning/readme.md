@@ -8,6 +8,8 @@
     > use reduced kernel mean as model sperification
   * [Towards Enabling Learnware to Handle Unseen Jobs](http://129.211.169.156/publication/aaai21_unseenJob.pdf) (AAAI 2021)
   * [Towards Robust Model Reuse in the Presence of Latent Domains](https://www.ijcai.org/proceedings/2021/0407.pdf) (IJCAI 2021)
+  * [Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation](https://arxiv.org/pdf/2110.04202.pdf) (NeurIPS 2021)
+  * 
   
 * ## Heterogeneous Features
   * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
@@ -117,7 +119,8 @@
 
     > Utilize domain-spefic features to adapt unlabled data gradually via Curriculum Learing.
     >
-
+  * [Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2110.04111) (NeurIPS 2020)
+  * 
 * ## Heterogeneous Features
   * [Translated Learning: Transfer Learning across Different Feature Spaces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.145.5832&rep=rep1&type=pdf) (NIPS 2008)
   * (Heterogeneous Transfer Learning for Image Classification)(https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewPaper/3671) (AAAI 2011)
