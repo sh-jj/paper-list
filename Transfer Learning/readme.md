@@ -40,7 +40,8 @@
     * [Adaptive Smoothed Online Multi-Task Learning](http://papers.nips.cc/paper/6433-adaptive-smoothed-online-multi-task-learning) (NIPS 2016)  
     * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning) (NIPS 2017)
     * [Multi-task Learning with Labeled and Unlabeled Tasks.](https://dl.acm.org/citation.cfm?id=3305971) (ICML 2017)
-    * [Robust Learning from Untrusted Sources](https://arxiv.org/abs/1901.10310)  (ICML2019)
+    * [Robust Learning from Untrusted Sources](https://arxiv.org/abs/1901.10310)  (ICML2019, [code](https://github.com/NikolaKon1994/Robust-
+Learning-from-Untrusted-Sources))
       > For untrusted data sources with different data quality, it use weighted empirical loss to achieve collaborative learning. To learn the weight of different sources, it introduces a small clean dataset and measure the distance between the clean dataset and local dataset. During the estimation of weight of untrusted sources, the procedure can rely on gradient descent only.
 * ## Heterogeneous Features
     * [Multi-Task Learning in Heterogeneous Feature Spaces](https://ojs.aaai.org/index.php/AAAI/article/view/7909/7768&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=12997287504521233539&ei=htMcYe_DFIr2yATNnK7YAg&scisig=AAGBfm24A0r9yL-AN-gNsiMnBy6vQiRWEQ) (AAAI 2011)
