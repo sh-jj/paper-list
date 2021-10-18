@@ -61,6 +61,7 @@ Learning-from-Untrusted-Sources))
   * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://openreview.net/forum?id=HJcSzz-CZ) (ICLR 2018)
     > This paper extends the prototypical network to semi-supervised scheme. Mask clusters are employed to handle the unexpected instances which doesn't belong to the target task. Such a way of mining unlabeled data is rough and have space for improvement. However, the key problem in this situation is that there is a long way from existing few-shot learning method to practice.
   * [Task Cooperation for Semi-Supervised Few-Shot Learning](https://www.aaai.org/AAAI21Papers/AAAI-5922.YeHJ.pdf) (AAAI 2021)
+  * [Tailoring Embedding Function to Heterogeneous Few-Shot Tasks by Global and Local Feature Adaptors](http://www.lamda.nju.edu.cn/lus/files/AAAI21_GLoFA.pdf) (AAAI 2021)
 
 # Domain Adaptation
 
