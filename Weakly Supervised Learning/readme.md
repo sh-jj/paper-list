@@ -52,6 +52,11 @@ Semi-supervised boosting using visual similarity learning. CVPR 2008
 https://www.computer.org/10.1109/CVPR.2008.4587629  
 > Based on SemiBoost, they use a given classifier as prior to measure the similarity between samples.
 
+## Noisy Learning
+[Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion](https://arxiv.org/pdf/2106.09291.pdf) (IJCAI 2021)
+
+
+
 ## Multi-instance Learning
 [Deep multiple instance selection](http://scis.scichina.com/en/2021/130102.pdf) (SCIENCE CHINA: Information Sciences 2021)
 
