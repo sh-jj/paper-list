@@ -1,5 +1,5 @@
-# Model Reuse
-
+# Learnware
+## Model Reuse
 * ## Homogeneous
   * [Modal Consistency Based Pre-trained Multi-Model Reuse](https://www.ijcai.org/proceedings/2017/0459.pdf) (IJCAI 2017)
   * [Handling Concept Drift via Model Reuse](https://link.springer.com/article/10.1007/s10994-019-05835-w) (ML 2020)
@@ -34,7 +34,12 @@
 
 * Applications
   * [Rapid Performance Gain through Active Model Reuse.](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf) (IJCAI 2019)
-  * 
+
+# Feature Evolvable Learning
+[Storage Fit Learning with Feature Evolvable Streams](https://arxiv.org/abs/2007.11280) (AAAI 2021)
+[Exploratory Machine Learning with Unknown Unknowns](https://www.aaai.org/AAAI21Papers/AAAI-6937.ZhaoP.pdf) (AAAI 2021)
+
+
 # Multi-Task Learning
 * ## Homogeneous
     * [Adaptive Smoothed Online Multi-Task Learning](http://papers.nips.cc/paper/6433-adaptive-smoothed-online-multi-task-learning) (NIPS 2016)  
@@ -141,6 +146,14 @@ Learning-from-Untrusted-Sources))
     * [Expert Gate: Lifelong Learning with a Network of Experts](https://arxiv.org/pdf/1611.06194.pdf) (CVPR 2017)
         > maintain a model pool during lifelong learning  
         > use autoencoder as model sperification and estimate task relatedness through reconstruction loss.
+
+# Class Incremental Learning
+* Custom
+    * [Co-Transport for Class-Incremental Learning](https://arxiv.org/pdf/2107.12654.pdf) (MM 2021)
+    * [Detecting Sequentially Novel Classes with Stable Generalization Ability](https://link.springer.com/chapter/10.1007%2F978-3-030-75762-5_30) (PAKDD 2021)
+
+# Open-Set Recognition / Out-of-distribution data detection
+[Learning Placeholders for Open-Set Recognition](http://www.lamda.nju.edu.cn/zhoudw/file/CVPR21/CVPR21.pdf) (CVPR 2021)
 
 ## Datasets
 
