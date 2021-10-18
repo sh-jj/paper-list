@@ -3,8 +3,13 @@
 
 ## Semi-Supervised Learning
 
+[Dash: Semi-Supervised Learning with Dynamic Thresholding](https://proceedings.mlr.press/v139/xu21e.html) (ICML 2021)
+
 Towards Safe Weakly Supervised Learning. (TPAMI 2021)
 > For some candidate weakly supervised learners, it use a min-max framework to optimize the worst-case performance gain against base supervised learner.
+
+[Lightweight Label Propagation for Large-Scale Network Data](http://www.lamda.nju.edu.cn/liyf/paper/ijcai18-slp.pdf) (TKDE 2021)
+
 
 Instance selection method for improving graph-based semi-supervised learning.  (FCS 2018)  
 http://lamda.nju.edu.cn/liyf/paper/FCS18-gsslis.pdf  
@@ -46,4 +51,10 @@ Christian Leistner, Helmut Grabner, Horst Bischof:
 Semi-supervised boosting using visual similarity learning. CVPR 2008  
 https://www.computer.org/10.1109/CVPR.2008.4587629  
 > Based on SemiBoost, they use a given classifier as prior to measure the similarity between samples.
+
+## Multi-instance Learning
+[Deep multiple instance selection](http://scis.scichina.com/en/2021/130102.pdf) (SCIENCE CHINA: Information Sciences 2021)
+
+[Multi-Instance Learning With Emerging Novel Class](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8896009) (TKDE 2021)
+
 
