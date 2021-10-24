@@ -101,7 +101,7 @@ Learning-from-Untrusted-Sources))
   * [Moment Matching for Multi-Source Domain Adaptation](https://arxiv.org/pdf/1812.01754.pdf) (ICCV 2019, [Homepage](http://ai.bu.edu/M3SDA/#dataset), [Code](https://github.com/VisionLearningGroup/VisionLearningGroup.github.io/tree/master/M3SDA/code_MSDA_digit), [Unofficial Code](https://github.com/xiechen0692/Moment-Matching-for-Multi-Source-Domain-Adaptation-M3SDA))
 
     > Propose a dataset "DomainNet".
-    >
+  * [A Discriminative Technique for Multiple-Source Adaptation](http://proceedings.mlr.press/v139/cortes21b/cortes21b.pdf) (ICML 2021)
 * ## Multi-Target Domain Adaptation
 
   * [Unsupervised Multi-Target Domain Adaptation: An Information Theoretic Approach](https://ieeexplore.ieee.org/abstract/document/8970464) (TIP 2020)
