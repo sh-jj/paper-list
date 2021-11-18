@@ -14,8 +14,6 @@
   * [Handling Concept Drift via Model Reuse](https://link.springer.com/article/10.1007/s10994-019-05835-w) (ML 2020)
   * [Boosting-Based Reliable Model Reuse](http://proceedings.mlr.press/v129/ding20a/ding20a.pdf) (ACML 2020)
   * [Rapid Performance Gain through Active Model Reuse.](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf) (IJCAI 2019)
-
-  
   * [Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation](https://arxiv.org/pdf/2110.04202.pdf) (NeurIPS 2021)
   * 
   
@@ -43,7 +41,7 @@
   * [Contrastive representation distillation.](https://arxiv.org/abs/1910.10699) (ICLR 2020)  
   * 
 ## Model Evolution
-  Evolve the model from the training environment to a new environment.
+  Evolve the model from the training environment to an open and dynamic environment.
 * ## Features Shift / Learning with Evolving Features
   * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
   * [Rectify Heterogeneous Models with Semantic Mapping](http://proceedings.mlr.press/v80/ye2018c/ye2018c.pdf) (ICML 2018)
@@ -54,6 +52,9 @@
   * [Classification and novel class detection in concept-drifting data streams under time constraints](https://ieeexplore.ieee.org/abstract/document/5453372/) (TKDE 2011)
   * [Streaming Classification with Emerging New Class by Class Matrix Sketching](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14514/14419) (AAAI 2017)
   * [iCaRL: Incremental Classifier and Representation Learning ](http://openaccess.thecvf.com/content_cvpr_2017/html/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.html) (CVPR 2017)  
-  <!-- >  Use deep feature extractor and nearest-prototype discriminator to learning the novel classes during streaming data. -->
+  <!-- >  Use deep feature extractor and nearest-prototype discriminator to learning the novel classes during streaming data. -->  
+  * [One-Pass Learning with Incremental and Decremental Features](https://arxiv.org/abs/1605.09082) (TPMAI 2018)
   * [Semi-Supervised Streaming Learning with Emerging New Labels](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuY.4960.pdf) (AAAI 2020)
+  * [Co-Transport for Class-Incremental Learning](https://dl.acm.org/doi/pdf/10.1145/3474085.3475306) (MM 2021)
+
   
