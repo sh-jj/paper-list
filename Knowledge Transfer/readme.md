@@ -1,45 +1,3 @@
-# Learnware
-## Model Reuse
-* ## Homogeneous
-  * [Modal Consistency Based Pre-trained Multi-Model Reuse](https://www.ijcai.org/proceedings/2017/0459.pdf) (IJCAI 2017)
-  * [Handling Concept Drift via Model Reuse](https://link.springer.com/article/10.1007/s10994-019-05835-w) (ML 2020)
-  * [Boosting-Based Reliable Model Reuse](http://proceedings.mlr.press/v129/ding20a/ding20a.pdf) (ACML 2020)
-  * [Model Reuse with Reduced Kernel Mean Embedding Specification.](https://arxiv.org/abs/2001.07135) (TKDE 2021)
-    > use reduced kernel mean as model sperification
-  * [Towards Enabling Learnware to Handle Unseen Jobs](http://129.211.169.156/publication/aaai21_unseenJob.pdf) (AAAI 2021)
-  * [Towards Robust Model Reuse in the Presence of Latent Domains](https://www.ijcai.org/proceedings/2021/0407.pdf) (IJCAI 2021)
-  * [Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation](https://arxiv.org/pdf/2110.04202.pdf) (NeurIPS 2021)
-  * 
-  
-* ## Heterogeneous Features
-  * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
-  * [Rectify Heterogeneous Models with Semantic Mapping](http://proceedings.mlr.press/v80/ye2018c/ye2018c.pdf) (ICML 2018)
-  * [Learning with Feature and Distribution Evolvable Streams](http://proceedings.mlr.press/v119/zhang20ad/zhang20ad.pdf) (ICML 2020)
-  
-* ## Heterogeneous Labels
-  * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) (2014)    
-  * [Deep Learning for Fixed Model Reuse](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14586) (AAAI 2017)
-  * [Learning What and Where to Transfer.](https://arxiv.org/abs/1905.05901) (ICML 2019)
-  * [Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin](http://proceedings.mlr.press/v97/wu19c/wu19c.pdf) (ICML 2019)
-  * [Learning New Tricks From Old Dogs: Multi-Source Transfer Learning From Pre-Trained Networks.](http://papers.nips.cc/paper/8688-learning-new-tricks-from-old-dogs-multi-source-transfer-learning-from-pre-trained-networks) (NeurIPS 2019)
-     > This paper has tried to mine the ability of multi-source during transfer. Sepecially, they propose maximal correlation weighting to generate an ensemble module to utilize the internal output from multiple pre-trained networks.
-     > In my opinion, it seems like the custom stacking where the second model designed by maximize correlation.  
-     > So, what kind of ensemble module is reasonable? robust? efficient? ...
-  * [Distilling Cross-Task Knowledge via Relationship Matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf) (CVPR 2020)
-
-* ## Distillation 
-  * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)     
-  * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)  
-  * [Contrastive representation distillation.](https://arxiv.org/abs/1910.10699) (ICLR 2020)  
-
-* Applications
-  * [Rapid Performance Gain through Active Model Reuse.](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf) (IJCAI 2019)
-
-# Feature Evolvable Learning
-[Storage Fit Learning with Feature Evolvable Streams](https://arxiv.org/abs/2007.11280) (AAAI 2021)
-[Exploratory Machine Learning with Unknown Unknowns](https://www.aaai.org/AAAI21Papers/AAAI-6937.ZhaoP.pdf) (AAAI 2021)
-
-
 # Multi-Task Learning
 * ## Homogeneous
     * [Adaptive Smoothed Online Multi-Task Learning](http://papers.nips.cc/paper/6433-adaptive-smoothed-online-multi-task-learning) (NIPS 2016)  
@@ -134,7 +92,7 @@ Learning-from-Untrusted-Sources))
 
 
 ## Incremental Domain Adaptation
-##  Partial Domain Adaptation
+## Partial Domain Adaptation
 
 ## Others
 
