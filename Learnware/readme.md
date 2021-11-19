@@ -36,7 +36,7 @@
   * [LogME: Practical Assessment of Pre-trained Models for Transfer Learning](http://ise.thss.tsinghua.edu.cn/~mlong/doc/LogME-Practical-Assessment-of-Pre-trained-Models-for-Transfer-Learning-icml21.pdf) (ICML 2021)
 
 * ## Architecture Shift / Distillation
-  * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015, 3451 citations)     
+  * [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531) (2015)     
   * [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622) (CVPR 2020)  
   * [Contrastive representation distillation.](https://arxiv.org/abs/1910.10699) (ICLR 2020)  
   * 
