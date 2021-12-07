@@ -34,6 +34,7 @@
 ## Model Evolution
   Evolve the model from the training environment to a new target environment.
 * ## Concept Shift
+  * [Learn on Source, Refine on Target: A Model Transfer Learning Framework with Random Forests](https://arxiv.org/pdf/1511.01258.pdf) (TPAMI 2017)
   * [Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation](https://arxiv.org/pdf/2110.04202.pdf) (NeurIPS 2021)
 * ## Features Shift / Evolution with Evolving Features
   * [Learning with Feature Evolvable Streams](https://arxiv.org/pdf/1706.05259.pdf) (NIPS 2017)
