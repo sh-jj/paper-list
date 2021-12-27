@@ -42,6 +42,7 @@
   * [Learning with Feature and Distribution Evolvable Streams](http://proceedings.mlr.press/v119/zhang20ad/zhang20ad.pdf) (ICML 2020)
   * [Storage Fit Learning with Feature Evolvable Streams](https://arxiv.org/abs/2007.11280) (AAAI 2021)
   <!-- * [Exploratory Machine Learning with Unknown Unknowns](https://www.aaai.org/AAAI21Papers/AAAI-6937.ZhaoP.pdf) (AAAI 2021) -->
+  * [Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach](https://proceedings.neurips.cc/paper/2021/file/a1c5aff9679455a233086e26b72b9a06-Paper.pdf) (NeurIPS 2021)
 * ## Label Shift / Evolution with Evolving Classes
   * [Classification and novel class detection in concept-drifting data streams under time constraints](https://ieeexplore.ieee.org/abstract/document/5453372/) (TKDE 2011)
   * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) (2014)    
