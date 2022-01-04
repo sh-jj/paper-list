@@ -92,6 +92,9 @@ Learning-from-Untrusted-Sources))
 
 
 ## Incremental Domain Adaptation
+* ## Gradual Domain Adaptation
+   * [Understanding Self-Training for Gradual Domain Adaptation](http://proceedings.mlr.press/v119/kumar20c/kumar20c.pdf) (ICML 2020)
+   * 
 ## Partial Domain Adaptation
 
 ## Others
