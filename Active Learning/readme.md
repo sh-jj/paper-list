@@ -16,9 +16,10 @@
 * [Transferable Query Selection for Active Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Transferable_Query_Selection_for_Active_Domain_Adaptation_CVPR_2021_paper.html) (CVPR'21 | [Github](https://github.com/thuml/Transferable-Query-Selection))
 * [Cost-Effective Training of Deep CNNs with Active Model Adaptation](https://dl.acm.org/doi/pdf/10.1145/3219819.3220026)(KDD'18)
 * [Active Adversarial Domain Adaptation](https://openaccess.thecvf.com/content_WACV_2020/html/Su_Active_Adversarial_Domain_Adaptation_WACV_2020_paper.html)(WACV'20)
-* [Discrepancy-Based Active Learning for Domain Adaptation](https://arxiv.org/pdf/2103.03757.pdf) (under NeurIPS'21 review)
 * [Active Learning for Domain Adaptation: An Energy-based Approach](https://arxiv.org/abs/2112.01406)(AAAI'22, [code](https://github.com/BIT-DA/EADA))
 * [Active Domain Adaptation via Clustering Uncertainty-weighted Embeddings](https://openaccess.thecvf.com/content/ICCV2021/papers/Prabhu_Active_Domain_Adaptation_via_Clustering_Uncertainty-Weighted_Embeddings_ICCV_2021_paper.pdf) (ICCV'21, [code](https://github.com/virajprabhu/CLUE))
+* [Discrepancy-Based Active Learning for Domain Adaptation](https://arxiv.org/pdf/2103.03757.pdf) (ICLR'22)
+* [Active Gradual Domain Adaptation: Dataset and Approach](https://ieeexplore.ieee.org/abstract/document/9681347) (MM'22)
 
 ## Active Semi-supervised Learning
 
